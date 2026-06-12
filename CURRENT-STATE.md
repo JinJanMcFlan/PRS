@@ -3,8 +3,8 @@
 
 **Project:** PRS (Presentation — Investor Pitch)
 **Owner:** Founder / ProjectARC / Deuterium3D
-**Last updated:** 2026-06-09
-**Status:** Active. 4 days to pitch. Core documents drafted. Review, decisions, and remaining deliverables in progress.
+**Last updated:** 2026-06-11
+**Status:** Active. ~2 days to pitch. Core documents drafted and revised this session (lanes resolved, Ringo ownership corrected, gross defined, APCL reframed, grant repositioned). Founder read-through next, then git push.
 
 ---
 
@@ -58,19 +58,20 @@ The pitch is made under the Deuterium3D brand. The investment is into ProjectARC
 
 ---
 
-## Funding Lanes (DECISION PARTIALLY OPEN)
+## Funding Lanes (RESOLVED — 2026-06-11, updated for Ringo correction)
 
-Three distinct lanes where investor money can go:
+**Resolution:** Every cash investor in this raise holds ONE instrument — a ProjectARC revenue-share agreement at the locked tiers. Return = % of the founder's product gross across his ventures (ProjectARC + Deuterium3D, incl. D3D's Ringo cinematic/film payouts). The investor can direct *where capital is deployed*, but the lane changes what the money does, not how they're paid.
 
-| Lane | What it funds | Revenue share basis | Status |
-|---|---|---|---|
-| **ProjectARC / Deuterium3D** | Founder's wages, D3D hires, AI tools, OCC, studio ops | ProjectARC gross revenue | Deal structure locked |
-| **Terminal Games** | Andrew's wages, game development | TBD — Andrew's deal | Not yet structured |
-| **Shared fund** | Joint projects, shared infrastructure, grant money (e.g. Epic MegaGrants) | TBD | Needs structuring |
+| Lane | What it funds | How the investor is paid |
+|---|---|---|
+| **Core (default)** | Founder's draw, D3D hires, AI tools, OCC, studio ops | ProjectARC revenue share (locked tiers) |
+| **Deuterium3D creative** | Ringo cutscenes + future film/animation adaptations (D3D's own work) | Same single ProjectARC agreement |
 
-**Confirmed:** Epic MegaGrants money goes to the shared fund.
+**Ringo itself (the game) is NOT sold in this raise.** Ringo is 100% Terminal Games' IP — money for the game goes to Terminal Games (Andrew's separate raise). Deuterium3D's stake in Ringo is contractual (asset access + up to ~$100K payout), not ownership.
 
-**Open question:** How the Terminal Games lane and shared fund lane are structured for external investors. The pre-Friday investor wants to choose which lane. This needs resolving before that meeting.
+**Separate raises (route to Andrew, not part of this pitch):** Terminal Games (the game) and (Andrew's AI co). Both need Andrew's deal terms + his number before being offered.
+
+**No shared fund exists.** Ringo is Terminal Games'. The UE5 / Epic grant is *for the Ringo game* and goes to Terminal Games; how Andrew uses it is his call. Jonathan participates in game development as hired/outsourced work at going rates — tool development, potential tool marketing, and the option to license/charge for tools he builds for the game. That contract revenue flows to ProjectARC/Deuterium3D and counts toward the investor's gross. (Pitching this arrangement to Andrew tonight.)
 
 ---
 
@@ -101,8 +102,6 @@ If Tranche 2 is invested, 8% replaces 4% — does not stack.
 
 **Payment flexibility:** Lump sum or $5,000/month over 6 months at investor's preference.
 
-**Enforcement deferral:** Standard 6-month deferral on any wage garnishment enforcement. Capital stays working in the business during the growth window.
-
 **Maximum revenue share ceiling:** ~10–15% total. This is the real scarcity constraint — limited profitable investor slots.
 
 ---
@@ -127,13 +126,16 @@ Value contribution — marketing, legal, connections. Defined terms, negotiated 
 
 | Allocation | Amount |
 |---|---|
-| Founder full-time (6 months living + debt elimination) | $30,000 |
+| Founder full-time — 6 months owner's draw + debt elimination (founder compensation, not a salaried wage until incorporation) | $30,000 |
 | IT hire — SAIT-trained, software dev + cybersecurity + infrastructure | ~$50,000 |
 | Creative industry generalist — senior production leadership | ~$60,000–$80,000 |
 | Hardware for new hires + studio infrastructure | ~$20,000–$30,000 |
+| Legal + accounting — incorporation, structure review, fundraising compliance | required (drawn from operations/buffer) |
 | Operations buffer | Remainder |
 
 Amounts between $30K and $200K that do not reach a full hire threshold are held in studio operations — not paid out personally.
+
+**Legal + accounting is a required cost, not optional.** Incorporation plus a lawyer/accountant review of the structure and the fundraising itself is budgeted inside the $200K. It's a real expense the founder would rather avoid but treats as mandatory — and it's a credibility point with a financially literate investor.
 
 **Budget transparency:** Investors have full right to refuse specific allocations. Anything they won't fund gets covered externally.
 
@@ -141,17 +143,18 @@ Amounts between $30K and $200K that do not reach a full hire threshold are held 
 
 ## Deliverables — Build Order
 
-1. ✅ **CORE-NARRATIVE.md** — v2.0 drafted. Pending founder review.
-2. ✅ **PLAYBOOK.md** — v2.0 drafted. Full APCL scripts. Pending founder review.
-3. ✅ **DAD-PITCH-SCRIPT.md** — v1.0 drafted. Full dinner arc. Pending founder review.
-4. ✅ **SESSION-CHECKLIST.md** — master task list for next session.
-5. ⬜ **Elevator Pitch** — 30 seconds, memorized.
-6. ⬜ **Vegas Networking Script** — stranger conversation system, meeting-set, fallbacks.
-7. ⬜ **Funding Lanes Document** — one-page breakdown by entity for investors who want to choose.
-8. ⬜ **Mom Pitch Script** — small tier, scope TBD.
-9. ⬜ **Printed Deck** — physical document for dad dinner. Built after CORE-NARRATIVE is locked.
-10. ⬜ **Tier 1 Cold Pitch** — general investor version.
-11. ⬜ **Tier 2 and Tier 3 Pitches**
+1. ✅ **CORE-NARRATIVE.md** — v2.1. Source of truth. Pending founder read-through.
+2. ✅ **BUSINESS-STRUCTURE.md** — entity & funding map (4 businesses under 2 BNs, Ringo = Terminal Games' IP via contract). Reference, not pitch copy.
+3. ✅ **PLAYBOOK.md** — v2.1. APCL reframed as a relationship technique; fabricated social proof stripped. Pending founder read-through.
+4. ✅ **DAD-PITCH-SCRIPT.md** — v3.0. Relationship-first, soft close at the end only, general-to-investor with dad-as-mindset. Pending founder read-through.
+5. ✅ **SESSION-CHECKLIST.md** — master task list.
+6. ⬜ **Elevator Pitch** — 30 seconds, memorized.
+7. ⬜ **Vegas Networking Script** — stranger conversation system, meeting-set, fallbacks.
+8. ⬜ **Funding Lanes Document** — one-page breakdown for investors who want to choose (lanes now resolved; ready to derive).
+9. ⬜ **Mom Pitch Script** — small tier, scope TBD.
+10. ⬜ **Printed Deck** — physical document for dad dinner. Built after CORE-NARRATIVE is locked.
+11. ⬜ **Tier 1 Cold Pitch** — general investor version.
+12. ⬜ **Tier 2 and Tier 3 Pitches**
 
 ---
 
@@ -162,6 +165,7 @@ D:\Deuterium3D\PRS\
 ├── SESSION-CHECKLIST.md    ← READ THIS FIRST — task list, open decisions, action items
 ├── CURRENT-STATE.md        ← this file — project status and master reference
 ├── CORE-NARRATIVE.md       ← source of truth for all pitch materials (v2.0, pending review)
+├── BUSINESS-STRUCTURE.md   ← full entity & funding map (4 businesses, 1 shared IP) — reference, not pitch copy
 ├── PLAYBOOK.md             ← hard Q&A, APCL scripts, close technique (v2.0, pending review)
 ├── DAD-PITCH-SCRIPT.md     ← full dinner arc for dad pitch (v1.0, pending review)
 ├── WORKFLOW-ROLES.md       ← how work flows through the pipeline

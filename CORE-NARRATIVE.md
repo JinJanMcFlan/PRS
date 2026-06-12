@@ -1,6 +1,6 @@
 # ProjectARC — Core Narrative Document
-**Version:** 2.0 — Pending Founder Approval
-**Date:** June 8, 2026
+**Version:** 2.1 — Pending Founder Approval
+**Date:** June 11, 2026
 **Purpose:** Single source of truth for all pitch materials, investor documents, and sales pipeline assets. Everything else is derived from this. Do not use any other document as a pitch source until this one is approved.
 
 ---
@@ -154,9 +154,13 @@ Epic MegaGrants 2026 Cycle 2:
 
 Strategy: Submit closer to the September 4 deadline. More development time = more polish = larger grant. Target submission profile: OCC live with paying users, social presence established, TRC entry publicly visible, Ringo Alpha approximately 50 percent complete.
 
-The sequence: Investor funding → TRC entry → Times Square billboard → established presence → Epic MegaGrants as a credible proven studio → maximum grant funding.
+**Whose grant this is — important:** Epic MegaGrants funds the Ringo *game*, which is Terminal Games' IP. The grant goes to Terminal Games, not ProjectARC. ProjectARC's benefit is indirect: a funded game means Terminal Games can hire Jonathan at going rates for cutscenes, tool development, marketing video, and creative direction — paid contract work that flows to Deuterium3D as revenue. (The specifics of that arrangement are PENDING Jonathan's conversation with Andrew and must NOT be presented to an investor as settled.)
 
-The investor's early capital is what makes this sequence possible on this timeline.
+What is unambiguously ProjectARC's in this sequence is **TRC** — Deuterium3D's own competition entry and social launch.
+
+The sequence, stated honestly: Investor funding → Jonathan full-time → TRC entry (ProjectARC's proof point) → Times Square exposure → established public presence. The game's Epic grant runs in parallel on Terminal Games' side and, if Andrew contracts Jonathan into the funded work, becomes an additional income stream — pending that conversation.
+
+The investor's early capital is what makes the ProjectARC side of this possible on this timeline.
 
 ---
 
@@ -185,12 +189,11 @@ What $30,000 produces:
 - OCC private beta complete (Month 1–2)
 - OCC public launch — first revenue (Month 2–3)
 - OCC building additional vertical apps autonomously (Month 4–6)
-- Ringo development ongoing throughout
-- Epic MegaGrants submitted with maximum credibility (before September 4)
-- Ringo Alpha ~50% complete at grant submission
+- Cinematic/asset contribution to Ringo ongoing throughout (paid contract work if Andrew contracts it)
+- The Ringo game's Epic grant submission supported (the grant is Terminal Games', before September 4)
 
 **Roadmap — $200,000**
-Full studio build. Sustained team. Hardware phases. Game through commercial release. OCC scaled to mainstream market. Tech department first consumer apps in development.
+Full studio build. Sustained team. Hardware phases. Game through commercial release. OCC scaled to mainstream market. Tech department first consumer apps in development. Incorporation and professional services — lawyer and accountant to incorporate, review the company structure, and ensure the fundraising itself is compliant — are a required, budgeted cost within this tranche, not an afterthought.
 
 ---
 
@@ -209,7 +212,16 @@ If Tranche 2 is invested, 8% replaces 4% — does not stack.
 
 **Payment flexibility:** Lump sum or $5,000/month over 6 months at the investor's preference.
 
-**Enforcement window:** The agreement includes a standard 6-month deferral on any wage garnishment enforcement. Capital deployed into an early-stage operation returns faster when it stays working inside the business during the growth window. This is a standard early-stage term, not an exception.
+**Funding lanes — directing where capital is deployed.** Every cash investor in *this* raise holds the same instrument: a ProjectARC revenue-share agreement at the tiers above. The return basis never changes — it is always a percentage of the founder's product gross across his ventures (ProjectARC tech + Deuterium3D creative, including Deuterium3D's Ringo cinematic/film payouts), with the locked cap and term. What an investor can direct is where their capital is *deployed*:
+
+- **Core (default):** ProjectARC / Deuterium3D operations — founder's draw, hires, OCC, tooling, studio infrastructure.
+- **Deuterium3D creative:** the Ringo cutscenes and future film/animation adaptations, which are Deuterium3D's own work.
+
+The lane changes what the money does, not how the investor is paid — both return on the same single ProjectARC agreement.
+
+**What this raise does NOT sell:** Ringo itself (the game) is 100% Terminal Games' IP — money for the game goes to Terminal Games, which is a separate raise on Andrew's paper. Andrew's AI company is also a separate raise. ProjectARC investors are not buying a piece of either; an investor who wants those is routed to Andrew directly.
+
+*(Internal note — not investor-facing: the Terminal Games and (Name) raises are separate, on Andrew's paper. There is no shared fund — the Epic/UE5 grant is the Ringo game's and goes to Terminal Games. ProjectARC's benefit from game development is contract work at going rates plus tool licensing, not the grant itself.)*
 
 **Proprietary disclosure:** Certain technical systems and IP details are disclosed under NDA at the due diligence stage. This is standard practice for systems that have no publicly documented equivalent.
 

@@ -19,18 +19,8 @@ Read these through carefully and react. Mark anything that feels wrong, weak, or
 
 These are blocking — the documents can't be locked until these are answered.
 
-### 1. Funding lanes — where does each investor's money go?
-You now have three distinct places an investor's money could land:
-- **ProjectARC / Deuterium3D** — your company, your wages, your hires, your tools
-- **Terminal Games** — Andrew's company, his wages, his game development
-- **Shared fund** — joint projects, shared infrastructure, split by contribution
-
-The other investor who wants to commit wants to choose *which lane* his money goes into. This means the pitch materials need a clear structure showing:
-- What each lane funds
-- What the return structure looks like for each (is it all ProjectARC revenue share? Does Terminal Games have its own deal?)
-- Whether investing in the "shared" lane counts toward ProjectARC revenue share or a separate agreement
-
-**This is the biggest open question.** It changes the deal structure table, the CORE-NARRATIVE, and the Playbook. Answer this before anything else.
+### 1. Funding lanes — RESOLVED (2026-06-11)
+Resolved: every cash investor in this raise holds ONE ProjectARC revenue-share agreement; return = % of the founder's product gross across his ventures; the investor directs *where capital is deployed* (core ops vs. Deuterium3D creative work). Ringo (the game) is 100% Terminal Games' — not sold here; that's Andrew's separate raise. No shared fund. Full detail in BUSINESS-STRUCTURE.md and the funding-lanes sections of CORE-NARRATIVE.md / CURRENT-STATE.md. Grant allocation + Andrew's deal terms still pending the Andrew conversation (see Actions).
 
 ### 2. Mom pitch — confirm scope
 You said: small tier only ($1K–$5K), founding supporter or project sponsor, never wages. Confirm:
@@ -70,13 +60,17 @@ These are next after the above decisions are made and the three core documents a
 
 ## ACTIONS BEFORE JUNE 13
 
-- [ ] **Close the pre-Friday investor** — must happen before the dad dinner so the "someone's already committing" line is true. Do not say it if it isn't done.
-- [ ] **Formalize Terminal Games revenue share in writing** — even a simple signed email between you and Andrew confirming the terms. An investor who asks to see it and there's nothing is a problem.
-- [ ] **Resolve the funding lanes question** — this affects the other investor's deal *and* the pitch materials.
+- [ ] **Talk to Andrew tonight — cluster (all feed the pitch):**
+  - His 6-month full-time number + a one-line deal shape for his AI-company / website raise (enables an honest pivot instead of winging another company's terms).
+  - Grant allocation: confirm the Epic/UE5 grant is the game's (Terminal Games') and how/whether he contracts you into the funded cutscene/tool/marketing work — the income stream the pitch leaves as PENDING.
+  - Ringo IP + ~$100K payout + asset-access terms in writing (even a short signed note) — the diligence soft spot.
+  - Tool-licensing: that you can charge him for tools you build for the game.
+- [ ] **Close the pre-Friday investor** — must happen before the dad dinner so the "another conversation in parallel" line is true. Do not say it if it isn't done.
+- [ ] ~~**Resolve the funding lanes question**~~ — DONE (see Decision 1).
 - [ ] **Book the right dinner** — mid-trip, earlier evening, quiet enough to talk numbers. Not the first night, not after the late hockey game.
 - [ ] **Print the deck** — once it's built and approved.
-- [ ] **Prepare the revenue-share agreement document** — clean, ready for signature, on tablet.
-- [ ] **Re-read PLAYBOOK.md the morning of** — numbers cold, APCL scripts loaded, "does that sound fair for the most part" automatic.
+- [ ] **Prepare the revenue-share agreement document** — clean, ready for signature, on tablet. Confirm the "gross" definition with the lawyer per BUSINESS-STRUCTURE.md.
+- [ ] **Re-read PLAYBOOK.md the morning of** — numbers cold, APCL loaded as the relationship technique, "does that sit right" automatic.
 - [ ] **Have the napkin math ready** — $750K gross = cap hit at 4%. Be able to write it out simply if he asks.
 
 ---

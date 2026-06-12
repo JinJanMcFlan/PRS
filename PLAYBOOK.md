@@ -1,15 +1,15 @@
 # ProjectARC — Investor Playbook
-**Version:** 2.0 — Pending Founder Approval
-**Date:** June 9, 2026
+**Version:** 2.1 — Pending Founder Approval
+**Date:** June 11, 2026
 **Purpose:** Hard Q&A for every objection, probe, and skeptical question an investor raises. This document is memorized, not handed out. The answers here are the foundation the pitch scripts are built on.
 
 **Primary audience profile:** Financial advisor, 35 years experience, mutual funds, sharp conceptual thinker, not AI or gaming literate, closer to film, going through a divorce, net worth ~$9M pre-divorce, actively doing his own deal work. Responds to professional structure, clear numbers, and a story he can repeat to others.
 
-**Close technique in use:** APCL — Acknowledge, Pivot, Close, Loop.
-- **A — Acknowledge:** "Yes, I understand that — I've actually heard that before from [reference]." Optionally open with a pullback to relieve pressure: "And look, you're not committing to anything right now..."
-- **P — Pivot:** "I'm actually glad you brought that up — it was something I was thinking through when I set this up."
-- **C — Close:** Hard close using an analogy or a reference to someone else who faced the same concern and moved past it. The analogy makes the objection feel resolved without debating it.
-- **L — Loop:** Return to the pitch exactly where you left off. Continue like the objection never happened. Status stays high.
+**Close technique in use:** APCL — Acknowledge, Pivot, Close, Loop. **APCL is a relationship technique — and here, the relationship *is* the sale.** Selling and relationship-building aren't opposites: putting real money into a partnership is an intimate act of trust, so the work of "selling" is the work of building the relationship to the point where investing together is the natural next step. What APCL is *not* is a hard close or a pressure play. Its job is to keep the relationship in the foreground when a business objection comes up — so a concern about terms or numbers never becomes the emotional center of the conversation. You receive the concern, fold it into the direction you're already leading, settle it honestly, and bring focus back to the relationship and what you're building together.
+- **A — Acknowledge:** Genuinely receive the concern so they feel heard — you're agreeing it's a fair thing to raise, not defending against it. This is the relationship move: you're on the same side of the question as them.
+- **P — Pivot:** Diffuse the concern by folding it into the direction the pitch is already going. Not a dodge — you answer in a way that flows back into the thread, so the concern becomes part of the story instead of a wall.
+- **C — Close (the concern, not the person):** Settle the specific concern with a clear, honest answer so it stops being an open loop. You're closing the *objection* — never hard-closing them, and never with borrowed social proof or invented references. The honest answer is the close.
+- **L — Loop (back to the relationship):** Bring the center of gravity back to the relationship and the shared build. The business detail got handled in passing; the relationship stays in the foreground.
 
 ---
 
@@ -51,17 +51,14 @@ The IT role is already identified — a SAIT-trained software developer and comp
 
 If the amount invested falls between $30,000 and the threshold for a full hire, the excess over $30,000 is held in studio operations — it does not go to personal pay. It waits until it can fully fund a position. The investor knows exactly where every dollar is going, and has full right to refuse any specific allocation. If they won't fund a line item, it gets covered externally. This is not a negotiation — it's transparency.
 
-**Q: What is the wage garnishment clause?**
-A: It's a standard early-stage term. The agreement includes a 6-month deferral on any wage garnishment enforcement. Capital deployed into an early-stage operation returns faster when it stays working inside the business during the growth window rather than being diverted to enforcement costs. It is in the investor's interest for the capital to remain deployed and generating the revenue that pays the return.
-
 **Q: Is this a formal legal agreement?**
-A: Yes. The revenue share agreement is a binding legal document specifying the investment amount, revenue share percentage, cap, term, payment flexibility terms, and enforcement deferral clause. It is signed by both parties. Specific technical IP details are disclosed under NDA at the due diligence stage — standard practice for proprietary systems with no public equivalent.
+A: Yes. The revenue share agreement is a binding legal document specifying the investment amount, revenue share percentage, cap, term, and payment flexibility terms. It is signed by both parties. Specific technical IP details are disclosed under NDA at the due diligence stage — standard practice for proprietary systems with no public equivalent.
 
 *APCL trigger — "I want to see more detail on the numbers before I commit":*
-- **A:** "Completely fair — and look, you're not committing to anything right now. A sharp eye on the numbers is exactly right."
-- **P:** "I'm actually glad you want to go line by line — that was my intention when I put this together. Full transparency is a standard term in this agreement."
-- **C:** "Most early-stage investors I've talked to have the same instinct. The ones who've moved forward are the ones who realized the structure answers the question before they finish asking it. The gross revenue basis, the fixed cap, the defined term — those exist specifically so there's no ambiguity about where you stand."
-- **L:** "Anyway — let me walk you through the milestone sequence so you can see exactly what the capital produces and when..."
+- **A:** "Completely fair — you're not committing to anything by looking closely, and a sharp eye on the numbers is exactly what I want on this."
+- **P:** "Honestly I'd rather go line by line with you than have you take any of it on faith — the whole thing is built to be transparent, so you digging in works in my favour, not against it."
+- **C:** "The gross-revenue basis, the fixed cap, the defined term — those exist so there's no ambiguity about where you stand at any point. Ask me anything on it and I'll show you the math; nothing in here needs to be taken on trust."
+- **L:** "And the reason I wanted *your* eyes on it specifically is you'll catch what a stranger wouldn't. Let me walk you through the milestone sequence so you can see exactly what the capital produces and when..."
 
 ---
 
@@ -129,16 +126,16 @@ A: Proprietary systems are protected through trade secret and NDA at the disclos
 A: Yes — and this is not an assumption, it is a managed system. The founder is currently training for a triathlon — not because it's enjoyable, but because a defined physical performance goal is the most effective tool for sustaining the cognitive and physical output this project requires. Sleep, nutrition, fitness, and blood work have all been researched and optimized for high-performance sustained output. High-performance counselling specialized in business owners and creatives is already in place — pre-funded independently. If the founder is not operating at full capacity, the project suffers. That is understood. The investment in personal performance is the mitigation.
 
 *APCL trigger — "I need to think about it" / "I'm not sure yet" / any soft exit:*
-- **A:** "And look, I completely understand that — you're not committing to anything right now, and honestly I'd be more concerned if you didn't want to think it through. I've heard that from almost everyone who ends up moving forward."
-- **P:** "I'm actually glad you said that — it tells me you're taking this seriously, which is exactly the kind of partner I want in this."
-- **C:** "Most people who've come back after thinking it over have said the same thing: the structure answered the question before they finished asking it. The gross revenue basis, the fixed cap, the defined term — it's designed so there's no ambiguity. One guy I talked to said it was the cleanest early-stage structure he'd seen — and he'd seen a lot of them."
-- **L:** "Anyway — the document is here, take it with you. Just know that the investor slots at this stage are real — I can only give away so much of the revenue share before the percentage stops working for the company. I'd rather you be in. But I understand if you need the night."
+- **A:** "Completely understand — you're not committing to anything tonight, and I'd honestly be more worried if you *didn't* want to sit with it."
+- **P:** "That you're taking it seriously enough to think it through is exactly what I'd want from someone I'm bringing into this."
+- **C:** "Take the document with you. It's built so the answers hold up when you re-read them cold — gross basis, fixed cap, defined term, no ambiguity. Anything still nagging after you've slept on it, bring it to me and we'll go through it."
+- **L:** "The only real clock here is mine, not yours — I need to lock my full-time start for the competition window. So take the night; I just wanted you to have the real look before I'm talking to anyone else. And whatever you land on, I'm glad it was you I showed it to first."
 
 *APCL trigger — "What if you get sick / burn out / can't keep up":*
-- **A:** "That's a legitimate concern and I respect that you're asking it — I've thought about it more than most people would."
-- **P:** "I'm glad you brought it up actually, because the answer changed the way I set up my entire personal operating system for this project."
-- **C:** "I'm training for a triathlon right now. Not because I love running — because having a hard physical goal is the best tool I know for keeping my output where it needs to be. Sleep, nutrition, blood work, counselling — all of it is already in place and already funded. This isn't a plan I'm going to build. It's running right now."
-- **L:** "So the health risk is real — and it's the most managed variable in the whole company. Anyway, let me show you the milestone sequence..."
+- **A:** "That's a legitimate concern, and I respect you asking it straight — it's one I've thought about more than most."
+- **P:** "I'm glad you raised it, because the answer is basically the operating system I built around this whole project."
+- **C:** "I'm training for a triathlon right now — not because I love running, but because a hard physical goal is the best tool I've found for keeping my output where it needs to be. Sleep, nutrition, blood work, counselling — all already in place and funded. It's not a plan I'm going to build; it's running now."
+- **L:** "So the health risk is real, and it's the most managed variable in the whole thing. Anyway — back to where we were, let me show you the milestone sequence..."
 
 ---
 
@@ -170,7 +167,7 @@ You already understand this structure — you explained it to me. Revenue share,
 - **A:** "That's completely fair — and again, you're not committing to the full amount right now."
 - **P:** "I actually structured the payment specifically so this doesn't have to happen all at once."
 - **C:** "The flexibility is $5,000/month over 6 months. You don't need $30,000 on day one — you need $5,000 on day one. And if $30,000 is still too large, the $5,000 minimum puts you in as a Project Sponsor — named in every studio release, lifetime OCC access, and a goodwill revenue share. That gets you in. We figure out the rest as the company performs."
-- **L:** "Anyway — let me show you where to sign and we can talk through the payment schedule..."
+- **L:** "Anyway — let me walk you through the payment schedule so it fits your situation, not the other way around..."
 
 **Budget transparency offer (deploy during close if he probes allocations):**
 Full line-item visibility is a standard offer. If there's a specific allocation he won't fund — whether that's a software subscription, a personal expense, anything — it gets covered externally. This is not a negotiation. It is transparency. The investor holds the right to refuse any specific use of their capital. That right is built into the agreement.
