@@ -1,6 +1,6 @@
 # ProjectARC — Investor Pitch Delivery Script
-**Version:** 3.0 — Pending Founder Approval
-**Date:** June 11, 2026
+**Version:** 6.2 — Pending Founder Approval (Beat 1 accuracy fix — department replacement is theoretically locked and ahead of publicly stated state-of-the-art, but NOT yet confirmed in practical testing; coding-department replacement confirms at 95% or predicted 99–100% only once OCC is finished. No overclaiming.)
+**Date:** June 12, 2026
 **First live use:** ~June 13, Las Vegas. Primary audience: founder's father (financial advisor, 35 years).
 **Purpose:** The in-person delivery arc for an investor pitch. Written **general-to-investor** so it works across the table from anyone. The father-specific material is folded in two places only: (1) the *mindset* you walk in with, and (2) optional anchors in the soft close. It is not the spine of the pitch.
 
@@ -32,7 +32,7 @@ Goal: lock one sit-down as the business conversation, framed honestly, without k
 
 **The ask (in person or by text before the trip):**
 
-> "One of the nights out there I want to steal you for a proper dinner, just us. I've built something over the last five months and I'm about to start putting it in front of investors. Before it goes in front of strangers, I want the sharpest financial eyes I know on it — yours. I'll be straight with you: you're also someone I'd want involved, so it's not only notes I'm after. Look at it the way you'd look at any deal that crossed your desk. Deal?"
+> "I'm about to start showing investors something I've been building for the last five months. Before I do — honestly, Dad, it's not just feedback I'm after. You're the first person on my list I'd ever want to partner with. When you partner with someone around money, it builds a deeper kind of relationship — and I want to stay really selective about who I do that with, because to me this is a vulnerable thing, putting my dreams in front of someone. That said — at the very least, all I'm actually asking for is your feedback. I want your professional eyes on it, like a sick deal just slid across your desk. I want you to pick it apart."
 
 This is flattering, honest, and sets the dual frame up front (feedback **and** a real ask). He walks in already in advisor posture — exactly where you want him.
 
@@ -40,75 +40,58 @@ This is flattering, honest, and sets the dual frame up front (feedback **and** a
 
 ---
 
-## PHASE 1 — Opening (first ~10 minutes)
+## PHASE 1 — Opening (relationship and backstory — start the excitement)
 
-Goal: set the honest frame, lay out *how* someone can be involved, and plant the real urgency and the real scarcity **once**. No selling yet — the ask is Phase 4, and you don't flag that it's coming (Phase 0 already did).
+Goal: open the business by opening *yourself*. The excitement starts here — not with a menu, not with an ask, but with the story of what you've been doing and why it matters to you. He invests in people; let him meet the person first. The "four ways to get involved" gets named **once, in passing**, at the end of this — just a reason there's something to talk about — and then you go straight into the story. You do **not** explain the four ways here, and you do **not** script a deflection; if he asks, you handle it live. The framing below makes him want the story, not the menu.
 
-**Set the frame:**
+**The open (your voice — this is backstory, not a memorized line, so say it however it comes out):**
 
-> "I'm going to walk you through this like you're an investor, because that's the read I need from you tonight — go at it, poke holes, tell me where it's soft. Your honest take on it is worth the dinner to me on its own."
-
-Note: the honesty is already carried by Phase 0 — when you set the meeting you told him it's not only notes you're after. So you don't re-announce the ask here. Re-announcing ("I won't ask until the end") just drops the sales tension back on the table on minute one, which is the opposite of relationship-first. Phase 1 stays pure analyst-posture; the ask lives in Phase 4 and he already knows it's coming.
-
-**Lay out the ways in — establish the structure now so scarcity has somewhere to live:**
-
-> "Before I start — there are four different ways someone can be part of this, and I want them on the table early so nothing feels like a moving target. Two of them carry an actual financial return. Two don't.
+> "So — you know I moved out, went out on my own, and actually started building the thing. This is the start of the project I've basically been cooking up in my head for eleven years, and it's finally real — I'm actually launching it.
 >
-> The two that pay: a revenue-share partner — that's the real-return position — and a smaller project sponsor that carries a goodwill share. The two that don't pay financially: a founding supporter, which is recognition and access rather than return, and a strategic partner, which is someone contributing connections or expertise instead of cash. I'll point out where each one fits as we go. Tonight I'm mostly walking you through the first one, because that's the one your eyes are built for."
-
-This plants the tier map so you can tease it throughout without re-explaining.
-
-**Plant the real scarcity — once, lightly, then move on:**
-
-> "One honest constraint so it's not a surprise later: the revenue-share side has a hard ceiling. There's only so much of the company's gross I can give away before the math stops working for the business — so the number of real-return partners is genuinely small. That's not a sales line; I'll show you the ceiling on paper. I mention it now only so 'being early' means something concrete later."
-
-**Plant the real time pressure — the honest version:**
-
-> "And there's a clock, but it's on *my* side of the table, not yours. There's a competition due in about five weeks that's the kickstart for the whole thing, and going full-time *now* is what lets me make a real run at it instead of a part-time one. So the urgency you'll hear from me is about my own start date — not about pressuring you into a decision tonight."
-
-> *(Honesty rule: do not imply his window closes tonight. The deadline is yours. If you fake urgency on him, he'll smell it and the relationship pays for it.)*
-
-**Optional — only if true by the time you sit down:**
-
-> "I've also got another conversation moving in parallel, so this isn't theoretical."
+> I put my head down hard the last five months because I realized something: this is actually possible now. The kind of thing that used to need a million-plus upfront to even attempt — it's realistic now. There are still startup costs, but it's real. So I went and learned AI way past what I even thought was possible, and I built a business structure with a few moving parts that funds itself and proves out its own products.
 >
-> *(Cut this entirely if the pre-Friday meeting hasn't actually progressed. He'll ask who — a fabricated answer detonates everything.)*
+> There's four main ways someone could get involved in this, and honestly I'm losing my mind I'm so excited to show you — so let me start with what I've actually done these past months, and we'll go from there. By the end it's something you can just sit back and judge for yourself."
 
-**The pullback (lowers pressure, gathers information):**
+That one mention of "four ways" plants that there's an opportunity without selling it. Then you're straight into Phase 2.
 
-> "And look — if backing something like this would put you in a tight spot with everything you've got going on right now, I'd tell you straight not to. That's not what tonight's about. Is your situation even in a place where this kind of thing is on the table?"
-
-His answer is information you bank for Phase 4. "I've got room" → noted. "Money's complicated right now" → you steer toward the smaller tiers and the feedback value, and you don't push the $30K. Listen to the answer.
+**Do NOT, here:** explain the four ways, plant scarcity, plant a deadline, or float the ask. All of that comes later. This is purely the excitement build.
 
 ---
 
 ## PHASE 2 — The Pitch (the core, ~15–20 minutes)
 
-Deliver CORE-NARRATIVE in spoken form. Don't read it. Hit these beats in order. Hand him the printed deck so he can annotate — annotating *is* engagement. Scarcity gets *teased* here, not hammered: one light callback per couple of beats, woven into the substance.
+Still the excitement build. Spoken, not read. The order matters: **explain what the thing actually is, from the ground up, before pitching any product.** He doesn't know these companies exist, let alone their names — so don't talk like he already has the map. General picture first, then the product, then the proof. If he wants to scribble on the paper while you talk, good — that's engagement. Scarcity gets *teased* lightly here, never hammered: a light callback every couple of beats, woven into the substance.
 
-**Beat 1 — The real thesis (lead with the big idea, not the game):**
-> "Most AI companies build tools that help people work a little faster. I'm building systems that replace entire production departments — not assist them, replace them. I've already done it with the coding department; it's how I built everything you're about to see. The modeling and texturing department is about 90% there. That's the company. The film-and-game side — Deuterium3D — exists to *prove the tools work* in public, under real conditions."
-
-**Beat 2 — Proof it's real (your credibility spine):**
-> "This isn't a pitch for something I'm going to build. In five months, around a full-time job, no team, no budget, I've already built it: tens of thousands of lines of working code, a 75%-complete orchestration system, a near-complete asset pipeline, and a game already in playtesting. I'm not asking you to believe a plan. I'm asking you to look at what exists."
-
-**Beat 3 — The product that makes money first (OCC) — *first scarcity tease*:**
-> "The first thing I sell is OCC. A serious AI user today juggles ten tools, copies work between them, burns money on overlapping subscriptions — and the best tool for any job changes every month. OCC is one interface that routes everything automatically, manages the cost, and updates itself as the field shifts. For heavy users it cuts AI operating costs 20–40%. The people I'm selling to are already paying for all of it — I'm consolidating what they already spend."
+**Beat 1 — What this actually is (ground up — the real thesis):**
+> "So here's what I'm actually running. It's an AI tech operation — but not the kind that builds little tools to help people work a bit faster. I'm building AI systems that replace entire production departments — the whole department, not just speeding one up. Modeling, texturing, the coding side — the teams a studio normally pays a room full of people to run, these systems are built to do instead. The theory behind it is locked in — those breakthroughs are set in stone, and they already put me further along than anything another company has publicly claimed. What's left is proving the last mile in practice: the coding department is the closest, I already run everything I build through these systems, and once OCC is finished I'll know whether that's landing at 95% or the 99-to-100% I'm predicting. Modeling and texturing is most of the way there too.
 >
-> *(tease)* "This is the revenue that funds the revenue-share return — and it's also why the real-return slots are limited. The faster this turns on, the fewer partners I need to bring in."
-
-**Beat 4 — The game and why the playtest matters (the diverse-tester detail is a credibility weapon):**
-> "The game is Ringo. We ran a first playtest with five testers — and this matters — not my buddies. US, Canada, England, men and women, a deliberate spread of skill. The guy in England I'd only met in March. He played three hours straight in a rough greybox build because the movement felt that good. Four of the five said, unprompted, they'd never seen anything like it. One quit after five minutes because it was too hard for him — and that's the most useful result I got, because it confirmed the design problem I already knew about: the game has to *teach* through how the levels are built, not through tutorials. That tester's coming back next round specifically to see if it teaches him. He's not annoyed — he's curious."
-
-**Beat 5 — The funding sequence (make the timeline feel real) — *second scarcity / urgency tease*:**
-> "Here's why the timing is real. The competition — TRC — is due July 15. Winners go on the Nasdaq billboard in Times Square. That entry is *mine* — Deuterium3D's — built entirely with my AI pipeline, so placing in it is third-party proof the tools work, in public. That's the proof point the whole studio launch sits on, and it's why going full-time *now* instead of in two months is the difference between a real run at it and a part-time one."
+> And here's the part that hasn't really been done before: I'm not just replacing those departments for *myself*. I'm building the systems so they're sellable — so another company can drop them in and replace their own departments the same way. That's the product. That's the moneymaker.
 >
-> *(tease)* "And that's what makes the early position worth holding — coming in before that proof lands publicly is coming in at the level where the revenue share is still available."
+> Right now I'm proving it the hard way: I'm running these systems on another company's game — and the animation side of it too, building their cutscenes, their art, running creative direction. That game, and the film that'll come off it, are huge projects — but to me they're the proof of concept, not the product. They're how I show the tools actually work, in public, under real conditions. The thing I'm selling is the tech underneath them."
+
+**Beat 2 — Proof it already works (the teaser — pays off in Beat 5):**
+> "And that other company I just mentioned — they're a brand-new startup. When we started, they had literally zero idea how to build what they were trying to make. My systems took them all the way to a full working playtest of a real game — designed, developed, playable — and it landed really well. There's a lot in that playtest, so I'll come back to it. Right now I want to walk you through the AI tech the company's actually producing..."
+
+**Beat 3 — What I built in five months (the credibility spine):**
+> "This isn't me pitching something I'm going to build — I've already built it. In five months, around a full-time job, no team, no money: tens of thousands of lines of working code, an orchestration system that's about 75% done, and a modeling-and-texturing pipeline that's 75 to 85% built — the conceptual side of it is basically there, up around 98%. Plus the game that's already in playtesting. I'm not asking you to believe a plan. I'm asking you to look at what's already here."
+
+**Beat 4 — The product that makes money first (OCC) — *first scarcity tease*:**
+> "The first thing I actually sell is OCC. Anyone serious about AI right now is juggling ten different tools, copying work back and forth between them, paying for a bunch of overlapping subscriptions — and the best tool for any one job changes basically every month. OCC is one interface that routes all of it automatically, handles the cost, and updates itself as things change. For heavy users it cuts their AI costs 20 to 40%. And the people I'm selling to are already paying for all of it — I'm just consolidating what they're already spending."
+>
+> *(tease)* "This is the revenue that pays the return — and it's also why the real slots are limited. The faster this turns on, the fewer partners I need."
+
+**Beat 5 — The game and the playtest, in full (the payoff to the Beat 2 teaser — the diverse-tester detail is a credibility weapon):**
+> "The game's called Ringo. We ran a first playtest with five testers — and this part matters — not my buddies. US, Canada, England, men and women, picked for a real spread of skill levels. The guy in England I'd only met back in March. He played three hours straight on a rough greybox build, just because the movement felt that good. Four of the five said, without me prompting them, that they'd never seen anything like it. One guy quit after five minutes because it was too hard for him — and honestly that was the most useful result I got, because it confirmed the exact problem I already knew about: the game's got to teach you through how the levels are built, not through tutorials. And that guy's coming back next round just to see if it teaches him. He's not annoyed, he's curious."
+
+**Beat 6 — The funding sequence (make the timeline feel real) — *second scarcity / urgency tease*:**
+> "Here's why the timing actually matters. The competition — it's called TRC — is due July 15. Winners get put up on the Nasdaq billboard in Times Square. That entry is *mine*, Deuterium3D's, built completely with my own AI pipeline — so placing in it is outside proof that the tools work, and it's public. That's the proof point the whole studio launch sits on. And that's why going full-time *now* instead of in two months is the difference between a real run at it and a half-effort."
+>
+> *(tease)* "And that's what makes coming in early worth something — getting in before that proof lands in public is getting in while the revenue share's still there."
 
 *(Internal note — the Epic/UE5 grant is the Ringo **game's** (Terminal Games'), NOT ProjectARC's. Do not fold it into ProjectARC's funding chain or present the $150K as the company's. If Andrew contracts Jonathan into the grant-funded game work — cutscenes / tools / marketing / creative direction — that paid work is a separate income stream worth mentioning to an investor as additional revenue coming in. The specifics are PENDING the Andrew conversation; until then, keep the grant out of the spoken pitch. Fill this in after that talk.)*
 
-**Beat 6 — What full-time actually buys (concrete, not abstract):**
-> "Right now, around a job, I can maybe hit top 20 in that competition on 60–70 hour weeks split two ways. Full-time, that same 60 hours goes entirely into it — and I'm going for *first*, not just placing. That's what funding buys. Not the ability to work. The removal of the ceiling on it."
+**Beat 7 — What full-time actually buys (concrete, not abstract):**
+> "Right now, working around a job, I can maybe hit top 20 in that competition on 60, 70 hour weeks — but that's split two ways. Full-time, that same 60 hours goes all into it, and I'm going for *first*, not just placing. That's what the funding actually buys. Not the ability to work — I'm already doing that. It takes the ceiling off it."
 
 ---
 
@@ -125,43 +108,69 @@ He's a financial advisor. He *will* go after the numbers. Welcome it. A calm, sp
 **The structure questions he'll likely hit (carry these cold):**
 - *Why revenue share not equity* → you keep control, he has no governance overhead, he's paid on performance. (He taught you this — see the anchor in Phase 4.)
 - *Why gross not net* → net can be massaged; gross protects him.
-- *How 4% returns 2×* → walk the $750K-to-cap math on the napkin.
+- *How the cap works (either size)* → $30K at 4% hits the $60K cap around $750K gross; $200K at 8% hits the $400K cap around $5M gross. Walk whichever size he's looking at on the napkin.
 - *What if it earns nothing* → he's owed nothing, same as any early-stage bet, but with no dilution and no board seat.
 - *Why 2× cap* → defensible, fair, built to close, not to haggle.
 
 **Light scarcity callback when he digs into the deal terms:**
-> "And the reason the terms are this clean rather than negotiable is that there isn't much of this position to hand out — so I built the one structure I'd actually want to stand behind, instead of leaving room to haggle it down."
+> "The reason the terms are this clean instead of negotiable is there just isn't much of this position to give out. So I built the one structure I'd actually stand behind, instead of leaving room to haggle it down."
 
 **If he asks where the money actually goes (lane question — matters most for the parallel investor, lighter for dad):**
-> "Every dollar in is one agreement with my company, and the payout's always a share of my company's gross — that part never moves. What you *can* steer is where the capital gets put to work: straight into core operations, into the shared fund that also catches the grant money, or earmarked toward the joint game work. The lane changes what the money does, not how you get paid. And to be clear — you're not buying a piece of Andrew's company; that's his own separate raise. Anything of mine that touches the joint work gets logged so the splits stay clean."
+> "Every dollar in is one agreement with my company, and the return's always a share of my company's gross — that part never changes. What you *can* steer is where the money gets put to work: straight into core operations, or earmarked toward the Deuterium3D creative side — the Ringo cutscenes and the film stuff down the line. The lane changes what the money does, not how you get paid. And just to be clear — you're not buying a piece of Andrew's company. The game itself is his; that's his own separate raise. Anything of mine that touches the shared work gets logged so the splits stay clean."
 >
 > *(For the parallel investor who wants to pick a lane: this is the answer, and the full one-page breakdown is the Funding Lanes Document. For dad, keep it to the two sentences unless he pushes — the lane detail is more than the dinner needs.)*
 
 ---
 
-## PHASE 4 — The Ask (the soft close — only now)
+## PHASE 4 — The Four Ways, the Assume-Close, and the Close
 
-This is the last 10%. The pitch has landed, he's probed it, it held. Now — and only now — you ask, clearly and warmly. He already knew the ask was coming, so this is momentum, not ambush.
+The vision has landed and he's probed it. Only now does money structure enter — and it enters *fast*. You run the four ways in descending detail, assume he wants the top one, and if he does, you close that one and only that one. The others don't get touched until he's signed.
 
-**The transition into the close:**
-> "So that's the whole thing. You've picked at it for an hour and it's still standing — which is exactly what I hoped, because I wanted *your* read specifically. Here's where I land: I'd want you in. Not as my dad doing me a favor — as someone whose judgment I trust putting capital into something he thinks will actually work. The only real questions left are *how much* and *in what shape* — lump sum or the monthly schedule."
+### Step 1 — Blaze through the four ways (descending detail)
 
-That moves him from *if* to *how*, out loud, with his eyes open. With this man, that's the version that works.
+Big one gets the detail. Each one after gets less. You're orienting him, not selling the small ones.
 
-**The genuine anchors — these are TRUE, so say them as truth, not triggers.** Drop them where they fit naturally; never stack or perform them. *(These are the only father-specific lines in the script — use them only when the investor is him.)*
+> "Okay — so I said there's four ways to get involved. Quick rundown.
+>
+> **Option one is the real one — a revenue-share partner.** This is the position with an actual return. You put capital in, you get a percentage of the company's gross until you hit a cap of two times what you put in, then it closes. No equity, no board seat, no say in operations — you're paid purely on performance. That's the one built for someone like you.
+>
+> Option two's a project sponsor — smaller, carries a goodwill share. Three's a founding supporter — credit and lifetime access, not a return. Four's a strategic partner — connections or expertise instead of cash."
 
-- *(Strongest — it's real and it's about him):* "You're the one who told me I could structure this so I keep control of my own project. So I did. This whole structure exists because of something you taught me."
-- *(Let him arrive at the family piece — don't spell it out):* "When this needs real IT and software infrastructure, I already know exactly who I'm calling." *(He'll fill in the name. Let him.)*
-- *(Quiet, not dramatic):* "This is what it looks like when I'm finally doing the thing I'm actually built to do."
+That's it. The bottom two get a single clause each. You don't explain what you'd never expect him to take.
 
-**Payment flexibility (lowers the size objection):**
-> "And it isn't $30K on day one — it's $5K a month over six months if that's easier. You need five grand to start, not thirty."
+### Step 2 — The assume-close
 
-**The tier fallback (keeps him in even at a no on the big number) — this is where the tier map from Phase 1 pays off:**
-> "And if the full revenue-share position isn't where you're at right now, the smaller way in still puts you on the ledger — named in everything I release, lifetime OCC access, a goodwill share. That's the second of the four. We grow the rest as the company proves out."
+End the rundown by assuming the top:
+
+> "I'm assuming you want to hear more about option one first?"
+
+You do **not** re-explain option one here. You described it once; this is just the door. If he says yes — and the rundown is built so he does — that yes *is* him stepping into the close. If he points at a smaller one instead, follow him there; but the structure expects option one.
+
+### Step 3 — Close option one (and only option one)
+
+Now the numbers and the real ask. Anchor at the $200K position — the smaller tranche is a step-down *inside* option one, not a different option.
+
+> "So here's where I land — I'd want you in on this one. Not as my dad doing me a favor, but as someone whose judgment I actually trust, putting money into something he thinks is going to work. The full position is the $200K roadmap — that funds the whole build: the hires, the hardware, the runway. The only real questions left are how much, and what shape."
+
+**The genuine anchors — these are TRUE, so say them as truth, not triggers.** Drop them where they fit; never stack or perform them. *(Father-specific — only when the investor is him.)*
+
+- *(Strongest — it's real and it's about him):* "You're the one who told me I could set this up so I keep control of my own thing. So I did. This whole structure exists because of something you taught me."
+- *(Let him arrive at the family piece — don't spell it out):* "When this needs real IT and software people, I already know exactly who I'm calling." *(He'll fill in the name. Let him.)*
+- *(Quiet, not dramatic):* "This is what it looks like when I'm finally doing the thing I'm actually meant to be doing."
+
+**The step-down within option one (lowers the size, keeps the position):**
+> "And it doesn't have to be the full $200K. The entry on this same position is $30K — that's the number that takes me full-time — and even that can be $5K a month over six months. You'd need five grand to start, not thirty. Same agreement, same way you get paid; it's just where you want to come in."
 
 **The close line — honest, not a trap:**
-> "So — lump sum or monthly, and we start it tonight. Does that sit right with you?"
+> "So — what shape feels right to you? We can start it tonight."
+
+### Step 4 — Only after he's signed: the other options become a referral
+
+Do not circle back to options two through four to *sell* him. Once he's closed and signed on option one, they're a referral conversation, not a second ask:
+
+> "Now that you're in — those other three ways I blew past? A couple of them are perfect for someone who wants to support it without a big check. Anyone in your circle you think would actually want in on something like this?"
+
+That turns his network on without ever pressuring him for more himself.
 
 ---
 
@@ -169,10 +178,10 @@ That moves him from *if* to *how*, out loud, with his eyes open. With this man, 
 
 **Do not route around this. Back it.** He's mid-divorce. A financial move made during active proceedings can be scrutinized, and the exposure is *his*. Backing his caution is the honest play, it protects him, and with this audience it closes *better* — because pushing him past his own counsel is the one move he's trained to distrust.
 
-> A *(pullback + question):* "That's exactly the right call — I'd be uncomfortable if you didn't. Is the hesitation the structure itself, or the timing with everything else going on?"
-> P: "Good — because the last thing I want is for this to create a headache for you on the other stuff."
-> C: "This is a real arms-length revenue-share investment into a registered company. It documents cleanly and it holds up to your lawyer looking at it. I'd rather you come in clean and a little slower than fast and messy. Send them the agreement."
-> L: "So take it, let your people look, and let's lock a firm time to talk again. Does that sit right?"
+> A *(pullback + question):* "That's exactly the right call — honestly I'd be uncomfortable if you didn't. Is it the structure itself you're unsure about, or just the timing with everything else going on?"
+> P: "Good — because the last thing I want is for this to turn into a headache for you on the other stuff."
+> C: "This is a real arm's-length revenue-share investment into a registered business. It documents cleanly and it'll hold up fine to your lawyer looking at it. I'd rather you come in clean and a bit slower than fast and messy. Send it to them."
+> L: "So take it, let your people look it over, and let's lock a real time to talk again. That sit right?"
 
 **Floor — for you, not him:** anything in the *presented* deal stays clean and disclosed. Don't build, float, or hint at any structure whose purpose is to keep this investment from being seen or understood in his proceedings. That's his legal risk, and it's not yours to take on his behalf. Clean and disclosed, or it doesn't happen.
 
@@ -182,7 +191,7 @@ That moves him from *if* to *how*, out loud, with his eyes open. With this man, 
 
 Protect the relationship above the deal. Always.
 
-> "Totally fair — and I mean it. You looking at this hard and being honest with me is worth a lot on its own. Two things: would you still be a set of eyes as I refine it for other investors? And keep the door open — the position is real and limited, and if it's still there when your situation settles, I'd rather it be yours."
+> "Totally fair — and I mean that. You looking at this hard and being straight with me is worth a lot on its own. Two things though: would you still be a set of eyes for me as I tighten it up for other investors? And keep the door open — the spot's real and it's limited, and if it's still there when things settle for you, I'd rather it be yours than a stranger's."
 
 If he's out entirely on investment, you've still gained the sharpest feedback you'll get anywhere and kept your father in your corner. That's not a loss. Walk out warm.
 
@@ -190,13 +199,12 @@ If he's out entirely on investment, you've still gained the sharpest feedback yo
 
 ## Pre-Pitch Checklist
 
-- [ ] "Another conversation moving in parallel" line is *true* by dinner — or it's cut
-- [ ] Printed deck (for him to annotate)
-- [ ] Tablet on standby for demos only
+- [ ] Paper + pen ready — for napkin math and any sketches that stand in for a slide
+- [ ] Laptop ready — to show a demo if he asks, and to generate + sign the agreement on the spot
 - [ ] Revenue-share agreement document, clean and ready
 - [ ] PLAYBOOK.md re-read the morning of — numbers cold
 - [ ] Right restaurant booked: mid-trip, earlier, quiet enough to talk numbers
-- [ ] Napkin math ready: $750K gross = cap hit at 4%
+- [ ] Napkin math ready — both sizes: $200K position = 8%, $400K cap (hit at ~$5M gross); $30K entry = 4%, $60K cap (hit at ~$750K gross)
 
 ---
 
