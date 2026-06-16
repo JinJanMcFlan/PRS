@@ -60,14 +60,28 @@ That one mention of "four ways" plants that there's an opportunity without selli
 
 ## PHASE 2 — The Pitch (the core, ~15–20 minutes)
 
-Still the excitement build. Spoken, not read. The order matters: **explain what the thing actually is, from the ground up, before pitching any product.** He doesn't know these companies exist, let alone their names — so don't talk like he already has the map. General picture first, then the product, then the proof. If he wants to scribble on the paper while you talk, good — that's engagement. Scarcity gets *teased* lightly here, never hammered: a light callback every couple of beats, woven into the substance.
+Still the excitement build — spoken, not read. Lay the company out top-down first (structure → product → proof), then go into the beats. Err toward giving him the whole map; missing detail invites a question you have to scramble for, while extra detail you can just move past.
+**The business, top down (the map before the product):**
 
-**Beat 1 — What this actually is (ground up — the real thesis):**
-> "So here's what I'm actually running. It's an AI tech operation — but not the kind that builds little tools to help people work a bit faster. I'm building AI systems that replace entire production departments — the whole department, not just speeding one up. Modeling, texturing, the coding side — the teams a studio normally pays a room full of people to run, these systems are built to do instead. The theory behind it is locked in — those breakthroughs are set in stone, and they already put me further along than anything another company has publicly claimed. What's left is proving the last mile in practice: the coding department is the closest, I already run everything I build through these systems, and once OCC is finished I'll know whether that's landing at 95% or the 99-to-100% I'm predicting. Modeling and texturing is most of the way there too.
+> "Before I get into the cool stuff, let me lay out what the business actually is, top down — there's a few moving parts and I want you to see how they fit together.
 >
-> And here's the part that hasn't really been done before: I'm not just replacing those departments for *myself*. I'm building the systems so they're sellable — so another company can drop them in and replace their own departments the same way. That's the product. That's the moneymaker.
+> It all sits under one company — ProjectARC. Under that there's two sides. One side is the AI tech: the systems and tools that do the actual production work. The other side is the creative studio, Deuterium3D — the public face, where I make film and content and put the tech to work out in the open, building an audience while it proves itself. Same company, two arms: one builds the technology, the other proves it in public.
 >
-> Right now I'm proving it the hard way: I'm running these systems on another company's game — and the animation side of it too, building their cutscenes, their art, running creative direction. That game, and the film that'll come off it, are huge projects — but to me they're the proof of concept, not the product. They're how I show the tools actually work, in public, under real conditions. The thing I'm selling is the tech underneath them."
+> The tech side is the part that eventually spins out into its own company — that's where the products that get sold live. The studio funds it and proves it until it's big enough to stand on its own. Same business, two stages.
+>
+> On top of that, I'm working with a separate partner studio on a game — I run all their AI and cinematic work and take a share of what the game earns. That's its own thing with its own funding; I just want it on the map so you know where it sits.
+>
+> And that's where funding comes in: it's what lets me push the tech side and the studio side hard at the same time, instead of building one slowly while the other waits. Funding collapses the timeline."
+
+**Beat 1 — What makes this different (the real thesis):**
+
+> "So that's the shape of it. Here's the part that makes it different from every other AI thing out there.
+>
+> Specifically, at this stage, what I'm building is AI systems that replace entire production departments — the whole department, not just speeding one up. We've started with coding, modeling, and texturing — the teams a studio normally pays a room full of people to run. Full hundred-percent replacement doesn't land until I've built proprietary tools for each of those, but the tools and workflows I'm running right now are already replacing the need almost entirely. The theory behind it is locked in — those breakthroughs are set in stone. And from the extensive research I've done so far, there's nothing else out there doing what we're doing; the tools exist to pull it off, and nobody's putting them together this way. What's left is proving the last mile in practice: coding's the closest — I already run everything I build through these systems — and once OCC is finished I'll know if that's landing at 95% or the 99-to-100% I'm predicting. Modeling and texturing's most of the way there too.
+>
+> And here's the part that's never really been done before: I'm not just doing this for myself. I'm building these systems to be sellable — so any company can pick them up and empower their own creators to do far more than they could before. The only real 'problem' it causes is companies getting so productive they outgrow what they planned for.
+>
+> And we don't stop at the few areas we've touched so far. We'll take the time hit on our own 'show' projects — the game, the film — to get the real tools built, because those were never the product. If they were, I'd be a lot further along on them by now. The real aim is the full automation of the traditional game and film production pipeline. The show projects just have to be fun and successful enough to prove the tools work — out in public, under real conditions. The thing I'm actually selling is the tech underneath them."
 
 **Beat 2 — Proof it already works (the teaser — pays off in Beat 5):**
 > "And that other company I just mentioned — they're a brand-new startup. When we started, they had literally zero idea how to build what they were trying to make. My systems took them all the way to a full working playtest of a real game — designed, developed, playable — and it landed really well. There's a lot in that playtest, so I'll come back to it. Right now I want to walk you through the AI tech the company's actually producing..."

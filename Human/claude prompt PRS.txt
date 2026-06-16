@@ -1,0 +1,200 @@
+claude prompt PRS
+
+Claude, please note that on this trip you no longer have MCP access and you will be having to write prompts to edit the files sent out to vs code agents. so you will be working not directly anymore. which honestly is for the better i think- then i can audit the changes a bit better.
+
+this is going to be a super long response, so i want you to talke to me about it first when you respond- that way we can not just waste time writing a bunch of prompts out first. or wate time re-writing the file.
+we gotta lock in, im already running parts of the scrip that we have built on the man himself because i dont have to many things to talk about so we gotta develop further. ill hop on in the morning to go over with you the rest of the stuff- then were gonna drive race cars at 1 and then we have a concert at 8. i dont want to run the pitch then we can do the next evening i think. 
+
+i want to remind you. i dont know whwere it was written. but the way i give feedback is not word for word. im just summarizing into what ideas and feeling of word tracks i want. you can infer by how i present feedback if it should be specific wording. lots of it is. but connecting it together needs to be your job.
+
+renamed to pitch script
+remove dad wording from the script. keep it generalized but same technique.
+keep customized section targeting the specific emotional beats that mwe mentioned before
+
+script audit:
+
+phase 0 already happened- it was much better written i butchered it but thast fine
+
+leave as is.
+we will develop it to the point where we can run that a s a cold start to making other pitches work well
+
+
+note. keep everything pretty personal at this point. keep it that way when im adapting to colder relationship pitches then i will be monitoring the relationship and reppor ive already built towards them to encorperate teh same general word tracks into it.
+phase 1.
+
+we nailed this its well written and i can on the fly adapt this because it gets me excited to read it- if it gets me excited to read it then we are working out of passion instead of working out of a script.
+
+
+phase 2
+
+ok claude we literally had the conversation about this already. you added it into line 63 as a rule instead of actually writing it into the script. you shoul dhave access to the business files and what not
+
+
+so we will need to address the thing its saying in line 63 "Still the excitement build. Spoken, not read. The order matters: **explain what the thing actually is, from the ground up, before pitching any product.** He doesn't know these companies exist, let alone their names — so don't talk like he already has the map. General picture first, then the product, then the proof. If he wants to scribble on the paper while you talk, good — that's engagement. Scarcity gets *teased* lightly here, never hammered: a light callback every couple of beats, woven into the substance."
+
+since you dont have access that is the line. then it continues into the previous pitch we already had. i dont want the statement saying explain what the thing actually is' i want you to write into the script about our business structure so that would be the opening phase- then we move into the next bit in beat 1.
+
+(im going to manually give you the file- if i forget to attach PITCH-SCRIPT.md then remind me)
+
+
+beat 1:
+not running- sounds to CEO side- what im building. 
+not operation -> it should describe it in one or few words that is a word that defines that we are creating a platform to create apps at an excellerated rate to bring profitability into multiple industrys by solving tactical problems through app development and creative idea pitching... maybe operation is the only word but i dont like how it sounds
+
+
+"specifically at this stage, i am building AI systems that replace..." sounds better instead.
+
+'-are built to do instead." -> we have started with coding, modelling, and texturing. full 100% replacement will not come until we have propratary tools built for those- but the tools and workflows we are currently using are effectively replacing the need almost entirely.
+
+
+'further along than- publicly claimed" i cant add this- i have not done the research specifically. but we can gernalize it a bit more to keep the intent of the line.
+
+
+this section is actually written quite well for the first part in line 66
+
+line 68 sounds to antagonistic. we sound like were the problem of replacing jobs- it needs to be worded better as empowering creators to accomplish more than they could before. the promplems we introduce to companies through the tools is the excessive need to expand because they will become to productive.
+
+'thats the moneymaker' - we wont stop at just the few areas we have briefly touched on so far. we will relentlessly take the time hit on the creation of our 'show products' in order to make sure we get the tools done that will bring us success. our product is not the game or film. we would be further along than that by this point if that was our only focus. the full systematic automation of the game and film traditional industry pieplines is the real aim of our productions. 
+
+but we gotta build something fun and passionate that has to be successful in order to do that.
+
+
+(side note, i just wrote what you explained in line 70... im going to read the section first going forward before i start putting notes. sorry about the redundancy if there is some.) -> i did kind of like my starting expression first, then your closing in line 70 is fire- starting at 'but to me they're...' so kinda mix the two together
+
+
+beat 2
+make sure to mention 'systems and workflows' a tool is essentially a systematic workflow- so it removes the human management element of the two addative things that create an efficient pipeline.
+
+we can also note, the ideas provided made it possible to go form 'building a game so we know how to make SOMETHING inside of unreal engine' all the way to 'we can make a full fledge AA quality game here for under ~35k in outsourcing funds (external hires for coding, asset creation, game desing, concept art, ect.) and we kept hacking that budget all the way down to we dont NEED to outsource anymore, we can do it all in house.
+literally helped make the mans dream come true, the project lit up in front of his eyes and hes been pulling 8-10 hour days every day with a full time labour job.
+
+ending on the playtest is quite good here too. good mentioning that we will come back to the playtest later
+
+
+now, i think we should touch a bit on OCC before we hit beat 3, it feels out of place. because if we explain OCC a bit before beat 3 then beat 3 will hit HEAVY because then suddenly OCC isn't just a cool idea- but something that is inevitable.
+
+i have very specific things i would explain when talking about OCC like the 'showcase mode' that im 'super disappointed that its not ready yet' because its the coolest thing ive ever developed. If i had more time to work on the project in a focused manner i would have had it done by now. 
+i literally want to write in the fact that im super disappointed that i cant show that specific mode in action. and that i would have been able to if i was full time. (im hinting at asking for the close here- we have to word it in a way where we dont ask for the close.)
+
+beat 3
+'this isn't me pitching something im gonna build' that is literally asking for the sale again. we cant use things like 'im pitching right now' in our language.
+
+'now, i want to mention, im not just living in my plans of what im hoping to build here...-"
+
+
+i love the line, im not asking you to believe in a plan... because saying believe in the plan is not asking for the close i think. 
+
+
+we for sure have to add that other thing i mentioned before beat 3 into beat 3
+
+
+beat 4
+
+i mentioned talking about OCC before this in Beat 3. i want your opinion. shuld we move 4 to where 3 is or add a section into 3 where we hit at OCC as a 'excited side tangent i take' when in reality were getting to it officially here. i like that way cause it gives me some free form presentation. 
+this is the section where i acatully explain what it is not just about how exciting it is.
+
+we need to mention here that it is giving access autonomously to all Ai tools that have an API. so it literally works and efficiently delegates out Ai work to other Ais to save on token cost and also remove the human as the middleman. 
+
+it will be coupled with another system we will be using that will give the Ai orchestrator access to give you secure phone calls and texts in case it decides that your input is nessasry for some delegation tasks.
+
+not only is this the tool that pays the return, but its also the tool that makes all the other tools for the mass pool of app ideas we have across multiple industrys including trades, home, sales, corperate.
+
+
+
+Note: i think its better to have the OCC split before and after the beat 3 cause i love how solid beat 4 already is at this point so changing it around would be difficult in my mind. but that said i still want your opinion.
+
+beat 5
+
+'now like i said our tools are building a flagship product'
+the games called the adventures of ringo. (pre-alpha playtest) if they ask what that is ill explain that its a function based test to make sure that we as developers are not halusinating 'fun' in our game due to creation bias and knowing what its going to become opposed to what it is- this stage test gets unbiased new eyes on the game that DONT know where its going.
+we might want to add that to the playbook just in case.
+
+i did not meet the playtesters- there are people that were found by terminal games in an outreach networking strategy that ensured we would get diverse results.
+
+'a rough greybox build' - that i wouldn't even play myself! i refused to play because i thought it wasn't done enough to bother testing yet! he kept playing just cause he said the movement felt that good.--
+
+
+'they have never seen anything like it and need to know where its going once we improve on it'
+
+
+for the guy who quit- note that he was thrown in there intentionally with no direction at all, not even letting him know what buttons to click or where to go or how to move.
+id quit to lol- after telling him the controls he then gave up
+
+hes curious and excited- he was the only close friend. so he was shocked to see how much progress we have made.
+
+
+beat 6
+we need the full TRC name here. i forget it so i gott figure that out.
+
+'otherwise i could keep working on this thing part time in the background as competition and Ai updates create increasing front end manual work before the Ai is built enough to automatically manage that stuff on its own. 
+
+the tease is a good idea here, but i dont think we built it enough throughout the rest of the pitch for it to even work here. i have no idea what it was talking about and i had to read it twice when im the one who wrote the revenue share. 
+its because the rest of the pitch has been updated without mentioning it. so we dont directly mention the share here we re write the tease in a way that builds the scarsity but this isn't working here.
+
+
+beat 7
+
+not 70 hour. the realistic time frame now is that including the sales job it would be 80-90 hour for sure. But i would not be able to do the sales job with a double minded head stuck in animation and Ai tech when trying to pitch lights a door.
+its one or the other. i compete the competition and kickstart our entire profitability track. or i keep my job.
+there is no mid ground anymore.
+
+if full time my hours would likely be 60-80 hours into that project anyway. since i dont have enough time to hire someone to help me since onboarding would take to long. but id need to hire that person on so i would be working on onboarding as we are doing this project.
+
+
+so realistically the funding no longer buys the first place instead of not. its buying that but also the ability to work. 
+i struggle to believe i could finish the project with my current job. to much stress. i would collapse if i did finish.
+
+
+
+i dont think we ended beat 7 well enough to work into phase 3 yet.
+phase 3
+
+this literally makes no sense. suddenly line 116 for the actual script is saying the reason the terms... 
+
+we didn't even state them yet. we didn't even start the close yet. why are we defending the terms???
+
+yeah its literally not written yet. we need to write the close from scratch here. youve given me a few rebutalls.
+
+we will work on that more after we fix the rest of the pitch because the rest of the pitch builds directly into that.
+
+but it should be a smooth clean transition from the beat 7 and get right into leading, not telling, the investor that we are now discussing the 4 options. 
+
+using assumptive leading and techniques.
+write something in here for a whole closing section for me and ill edit what you have. i need that starting point, i cant give you the starting point.
+
+phase 4
+wait what. this should probably come before phase 3 did. 
+im all jumbled now.
+so im not going to continue here. im going to have you fix and work on what ive already typed here first, then we will come back in for the close after we solidify the start. how we do the first 2 phases directs how we write the close better.
+
+i notice at a glase that there is false info in the 4 things too.
+assume close is to blunt wee will work
+
+the rest update in accordance of all new information.
+
+giving the rest a big glanse over there is a lot i want to change so lets get that re-write so i can get in there. This is where it gets fun and exciting, cant wait. make sure to get everything else fixed before you write that, then we will tackle it. for getting things fixed, make sure to work with me to get it all fixed.
+
+REMIND ME: to send you some meetings of the 'closer calls' they have some closing structure that we MIGHT be able to use as a BROAD REFFERENCE for the first main writeup of the close. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
