@@ -1,6 +1,6 @@
 # ProjectARC — Investor Playbook
-**Version:** 2.1 — Pending Founder Approval
-**Date:** June 11, 2026
+**Version:** 2.2 — Pending Founder Approval (added Ringo + pre-alpha Q&A; note: deal-structure numbers in Section 1 are being re-derived — see CURRENT-STATE four-pool draft)
+**Date:** June 16, 2026
 **Purpose:** Hard Q&A for every objection, probe, and skeptical question an investor raises. This document is memorized, not handed out. The answers here are the foundation the pitch scripts are built on.
 
 **Primary audience profile:** Financial advisor, 35 years experience, mutual funds, sharp conceptual thinker, not AI or gaming literate, closer to film, going through a divorce, net worth ~$9M pre-divorce, actively doing his own deal work. Responds to professional structure, clear numbers, and a story he can repeat to others.
@@ -14,6 +14,8 @@
 ---
 
 ## SECTION 1 — The Deal Structure
+
+> **⚠ Numbers under revision (2026-06-16):** The specific figures in this section (4% / 8%, the $60K / $400K caps, the $750K-to-cap math) are being re-derived into the four-pool model — see CURRENT-STATE.md. The *reasoning* (why revenue share, why gross, why a cap, why a fixed term) still holds; reuse the logic, not the stale numbers, until the research locks them.
 
 **Q: Why revenue share and not equity?**
 A: Equity means you have a say in how the company operates. Revenue share means you get paid when the company earns — full stop. You don't sit in on decisions about game design, product direction, or hiring. You're not a shareholder trying to protect a position. You put capital in, the company generates revenue, you receive your percentage until the cap is hit. Clean, simple, no governance overhead for either side.
@@ -72,6 +74,12 @@ A: OCC is an AI orchestration platform. Right now, someone who uses AI professio
 
 **Q: What is HKB?**
 A: HKB is the foundational orchestration system that OCC is built on. It is ProjectARC's proprietary AI management infrastructure — currently 75% complete. It coordinates all AI workflows, manages the asset pipeline, and will eventually power all consumer and enterprise products the Technology Department produces. It is not a product sold directly — it is the engine underneath everything that is sold.
+
+**Q: What is Ringo, exactly?**
+A: Ringo is an innovative movement-based puzzle platformer with story-driven psychological-horror elements. It's built by Terminal Games; Deuterium3D handles all the cinematic, cutscene, and AI-technology work. It is not the product being sold in this raise — it's the live proof that the AI pipeline produces real, finished creative work under real conditions. The money is in the tooling; Ringo (and the film that follows it) is how we prove the tooling works.
+
+**Q: What does "pre-alpha" mean — is this even a real game yet?**
+A: Pre-alpha is the foundational stage where the game first becomes functional — core movement working, before content and polish. Running a playtest this early is deliberate: it's a function test. We bring in fresh, unbiased players who don't know where the game is going, specifically so we aren't hallucinating "fun" out of our own creation bias — we want to know what the game *is* right now, not what we picture it becoming. A tester playing a rough greybox for three hours straight at this stage is exactly the signal you run the test to find.
 
 **Q: What's the evidence that the AI asset pipeline actually works?**
 A: The TRC submission is the evidence. The Tripo AI 3D Rendering Challenge is a global competition with professional judges evaluating render quality, craft, and production value. Deuterium3D is entering with assets produced entirely through the AI pipeline — no outsourced modeling, no purchased assets. If the entry places, that is independent third-party validation that the pipeline produces at competitive quality. That result feeds directly into the Epic MegaGrants application.

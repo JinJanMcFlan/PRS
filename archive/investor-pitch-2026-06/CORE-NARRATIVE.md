@@ -1,6 +1,6 @@
 # ProjectARC — Core Narrative Document
-**Version:** 2.2 — Pending Founder Approval (coding/department claims corrected to match DAD-PITCH-SCRIPT v6.2 — department replacement is theoretically locked and ahead of publicly stated state-of-the-art, but practical full replacement confirms only once OCC is finished; modeling/texturing updated to 75–85% built / ~98% conceptual)
-**Date:** June 12, 2026
+**Version:** 2.3 — Pending Founder Approval (Ringo genre + pre-alpha defined; playtest sourcing corrected — Terminal Games-sourced diverse testers, founder didn't meet them, the quitter is the one close friend, greybox detail strengthened. NOTE: the Deal Structure / Investor Tiers sections are SUPERSEDED and under revision — the live four-pool working draft is in CURRENT-STATE.md, pending comparables-backed revenue research.)
+**Date:** June 16, 2026
 **Purpose:** Single source of truth for all pitch materials, investor documents, and sales pipeline assets. Everything else is derived from this. Do not use any other document as a pitch source until this one is approved.
 
 ---
@@ -108,18 +108,18 @@ Strategic alignment: Content will actively advocate for Unreal Engine 5, positio
 
 ## The Game — Ringo
 
-Ringo is a movement-based, story-driven first-person action game for PC and all consoles, developed by Terminal Games with Deuterium3D handling all cinematic and video content.
+Ringo is an innovative movement-based puzzle platformer with story-driven psychological-horror elements, for PC and all consoles, developed by Terminal Games with Deuterium3D handling all cinematic and video content.
 
 **The design philosophy:** The studio is building the game the market has been demanding and not receiving. Players are tired of predatory monetization, hollow trend-chasing, and games designed around extraction rather than experience. Ringo is a game you buy and own. The business model does not depend on player spending after purchase — it depends on building something people love enough to tell others about. The profitability of the company comes through AI tool sales, not in-game purchases. This builds a more loyal, more durable audience — the kind that funds sequels, adaptations, and everything that follows.
 
 **Current development status:**
 
-First conceptual playtest completed with 5 external testers. Results were significantly positive:
+First **pre-alpha** playtest completed with 5 external testers. (Pre-alpha = the foundational stage where the game first becomes functional — core movement working. The playtest at this stage is a *function test*: get unbiased fresh eyes who don't know where the game is going, so the team isn't hallucinating "fun" out of its own creation bias.) The testers were **sourced by Terminal Games through an outreach networking strategy chosen for diversity** (US, Canada, England; men and women; a real spread of skill) — **Jonathan did not meet them**, with one exception noted below. Results were significantly positive:
 
-- One tester played continuously for 3 hours in an unfinished greybox state — until physical discomfort stopped him — because the movement system was that engaging.
-- That same tester developed unintended emergent movement mechanics through extended play. The team identified these, documented them, and built adaptive optimization controls so emergent mechanics can be managed rather than patched out — accommodating both the specialized movement player and the general player simultaneously without sacrificing either experience.
-- 4 of 5 playtest participants said unprompted: "I've never seen anything like this" or equivalent.
-- The playtest revealed that the core movement system required optimization for broader accessibility. This has been addressed architecturally. The game now supports simultaneous optimization for both player types.
+- The build was a **greybox so rough Jonathan refused to play it himself** — and one tester still played **continuously for 3 hours**, until physical discomfort stopped him, because the movement system was that engaging.
+- That same tester developed unintended emergent movement mechanics through extended play. The team identified these, documented them, and built adaptive optimization controls so emergent mechanics can be managed rather than patched out — accommodating both the specialized movement player and the general player simultaneously without sacrificing either.
+- **4 of 5** said, unprompted, "I've never seen anything like this" (or equivalent) and wanted to know where it goes once it's improved.
+- The **5th tester — the one person Jonathan actually knew, a close friend — was dropped in with zero direction on purpose** (not told the controls, the goal, or even how to move). Even after being told the controls, he gave up. That's the most useful result: it confirmed the game must **teach through level design, not tutorials.** He isn't annoyed — he's curious and excited, and was shocked at how far the project has come.
 
 The playtest was run this early specifically to surface these issues before they became expensive to fix.
 
@@ -199,6 +199,8 @@ Full studio build. Sustained team. Hardware phases. Game through commercial rele
 
 ## The Deal Structure
 
+> **⚠ SUPERSEDED / UNDER REVISION (2026-06-16):** The tranche table below is being re-derived into a **four-pool model**, pending comparables-backed revenue-target research. The current working draft (pools, entries, %/multiples) lives in **CURRENT-STATE.md → Investment / Funding Structure**. Do not quote the numbers below as current. The *structure type* — revenue share (not equity/loan), gross-based, capped, with directable funding lanes — still holds.
+
 Revenue share. Not a loan. Not equity. No fixed repayment obligation. If the company generates no revenue, the investor receives nothing and is owed nothing. The investor's return is tied entirely to the company's success.
 
 |  | Tranche 1 | Tranche 2 |
@@ -228,6 +230,8 @@ The lane changes what the money does, not how the investor is paid — both retu
 ---
 
 ## Investor Tiers
+
+> **⚠ UNDER REVISION (2026-06-16):** These tiers map onto the new **four-pool model** (working draft in CURRENT-STATE.md). The amounts/percentages below are being re-derived; treat the *shape* (a revenue-share partner tier, a smaller revenue tier, an access-only supporter tier, a non-cash strategic tier) as current and the *numbers* as draft.
 
 **Tier 1 — Revenue Partner ($30,000–$200,000)**
 Full revenue share as above. For investors who want meaningful return on a high-upside bet.

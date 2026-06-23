@@ -1,4 +1,5 @@
 # Ringo — Deal Terms & Andrew Pitch
+**Document status:** Internal provisional draft. Do not treat as signed, externally usable, or factually settled unless source evidence confirms the terms.
 **Created:** June 11, 2026
 **For:** Jonathan ↔ Andrew (internal partner agreement — NOT investor-facing)
 **Purpose:** Lock the Ringo working terms in writing tonight. Quick-pitch talking points + a clean one-page summary you can both agree to.
