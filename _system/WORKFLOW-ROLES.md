@@ -22,6 +22,17 @@ Work flows down. Problems flow up.
 
 Default flat. Deepen only on overflow.
 
+## Cross-project intake routing
+
+MainOrch classifies each new fact by its real source of truth before any disk update.
+
+- PRS records business, communications, financial-model, partnership-status, website-review, and founder-operating implications.
+- OCC records product, commercial, security, budget-control, and launch-requirement implications.
+- TRC is updated only where a fact changes production, canon, asset-rights use, challenge compliance, or public-proof execution.
+- PRS keeps a concise snapshot or pointer rather than copying detailed technical truth from OCC or TRC.
+- Sensitive partnership and financial working records stay outside `_system` and are not default ChatGPT/Claude project sources.
+- Historical material remains historical unless explicitly re-verified and re-approved.
+
 ## Named-chat authority and continuity
 
 Creating a named orchestration chat authorizes it to begin and continue its assigned lane with Jonathan. Its opening handoff is a working brief, not a request for immediate MainOrch approval, an immediate return handoff, or immediate prompt creation. It begins by discussing and developing the work with Jonathan in normal human terms.

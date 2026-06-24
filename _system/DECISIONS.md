@@ -26,6 +26,26 @@ The website is being built externally. PRS owns website strategy, copy direction
 
 The June 2026 dad-pitch / VC-summit package is historical. It may be mined for prior thinking, but it cannot be treated as live facts, current terms, or active commitments without review.
 
+### Financial truth reset
+
+Historical pitch-era financial numbers, funding tiers, revenue-share terms, the $30K / $250K / $150K asks, debt-payoff allocations, and the $7.6M forecast are retired assumptions, not current facts.
+
+No current financial model, fundraising term, or forecast may use those assumptions until re-derived from verified market pricing, real costs, and a bottom-up model. Founder personal inheritance is private personal stabilization, not ProjectARC cash, investor runway, or fundraising material. Debt details are not external pitch language. Future probability claims require a defensible methodology; do not assign unsupported likelihood percentages.
+
+### Ringo commercial posture
+
+A signed good-faith working agreement exists and is pending lawyer formalization. Terminal Games retains ownership of the Ringo game IP. Exact commercial terms belong in a private current PRS partnership record and require legal confirmation before external use.
+
+Ringo-related economics are contractual optional upside only; they are not OCC base-case revenue.
+
+### OCC commercial and trust direction
+
+OCC alpha is internally defined as sellable: it must save meaningful time and produce real outputs worth paying for.
+
+Managed multi-provider access, optional customer API/local capacity, customer-first routing, and launch-critical budget controls are approved direction, not finalized public pricing or a claim of completed implementation. OCC must not promise unlimited managed frontier-model usage.
+
+Security is a phased company direction, not current marketing language or a completed assurance claim.
+
 ### Cross-project snapshot rule
 
 PRS may hold concise OCC and TRC snapshots for business context. OCC and TRC repositories remain authoritative for their own execution state.
@@ -41,5 +61,5 @@ Social accounts exist, but publishing has not meaningfully started. Do not inven
 - Networking strategy and first organizations to contact.
 - Social-media platform order, handles, publishing owner, and first post.
 - Website feedback and copy-review process with the external builder.
-- Whether the Ringo / Terminal Games draft terms have been signed, revised, or superseded.
+- Lawyer-confirmed external wording for the signed good-faith Ringo / Terminal Games agreement.
 - What current PRS source files, if any, should be mirrored into other AI project containers besides ChatGPT.

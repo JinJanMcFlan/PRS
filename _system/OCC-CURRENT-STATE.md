@@ -25,6 +25,36 @@ OCC means Overseer Command Center. It is a standalone, IDE-scale AI orchestratio
 
 OCC is intended to be provider-agnostic, local-first where useful, and driven by deterministic routing over capability, cost, urgency, user presence, and output-quality factors.
 
+## Commercial and trust direction
+
+OCC's internal alpha quality bar is sellable: a user should be able to request a bounded build, such as a creatively distinct simple game based on a reference, and OCC should materially progress or complete it autonomously while the user is away.
+
+This is an internal quality direction, not a finalized v1 specification or public capability claim.
+
+Preferred commercial direction:
+
+- One OCC account and one setup.
+- Managed multi-provider access.
+- Clear user-controlled budget.
+- Optional customer API keys and local AI.
+- Customer-provided API/local capacity should reduce OCC's fee/take for that usage and may receive user-selected routing preference.
+- Routing must optimize for customer budget, quality, outcome, and stated preferences rather than undisclosed OCC-margin optimization.
+
+Launch-critical controls:
+
+- Visible spend.
+- Forecasts and explanations.
+- User-set limits.
+- Project, task, and workspace budgets.
+- Approval gates for costly work.
+- Alerts, hard stops, and kill-switch behavior.
+
+There is no unlimited managed frontier-model promise.
+
+Security needs costed later phases: founder/alpha baseline, launch hardening, then high-security local/infrastructure operations. Current baseline gaps include password management and broader operational security maturity.
+
+All OCC pricing, integrations, implementation, public packaging, and external security language remain unfinalized unless the OCC repository records a later authoritative decision.
+
 ## Active workstreams
 
 - Router reconciliation is complete, but core router implementation remains blocked until a MainOrch-approved Router Build Package exists.
@@ -40,6 +70,7 @@ OCC is intended to be provider-agnostic, local-first where useful, and driven by
 - PRS language should emphasize the stable direction: standalone orchestration app, provider-agnostic routing, local-first folder awareness where useful, and a survival layer over changing AI tools.
 - Website and founder materials should not make AGI claims, provider-specific commitments, or implementation promises unsupported by OCC source material.
 - HKB should be treated as terminated as the active project direction and as a possible OCC parts donor only where OCC source material supports that framing.
+- PRS may discuss the sellable-alpha internal bar, managed-usage direction, optional customer-owned capacity, customer-first routing, budget controls, and security phases as current direction, but must not present them as implemented capability, finalized pricing, or external assurance.
 
 ## Major constraints
 
@@ -54,5 +85,7 @@ OCC is intended to be provider-agnostic, local-first where useful, and driven by
 - Founder-approved OCC v1 product scope.
 - Public-facing pricing and packaging.
 - Current market evidence for competitor pricing and model/provider cost claims.
+- Verified model/provider pricing, infrastructure costs, support costs, legal/tax/accounting/security estimates, customer-acquisition assumptions, and margin cases.
 - Launch criteria and near-term business milestone language.
+- Costed budget-control requirements and costed security phases.
 - Which OCC visuals or screenshots are approved for external website/fundraising use.
