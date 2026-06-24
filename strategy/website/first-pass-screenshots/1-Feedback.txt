@@ -1,0 +1,78 @@
+HERO / IMAGE 1 — APPROVED UPDATE
+
+Keep the existing layout, visual mood, and the stylized Deuterium3D logo treatment exactly as they are. This is a content and interaction update only.
+
+Hero eyebrow:
+Deuterium3D
+
+Hero headline:
+Worlds worth watching.
+
+Hero subline:
+The cutscenes you don’t skip.
+The films you don’t forget.
+
+Important: keep those as two centered lines beneath the headline. Do not allow “forget” to wrap alone.
+
+Primary button:
+Watch the Work →
+
+Behavior: scroll to the Made / Deuterium3D section.
+
+Secondary button:
+Behind the Work →
+
+Behavior: scroll to the Empowered / Ringo section.
+
+Replace the small “Full Teaser. 3 Weeks.” text with a more prominent centered countdown module:
+
+FULL TEASER:
+[shared TRC countdown timer]
+
+Use the exact same deadline configuration as the Tripo project. The source deadline is July 15, 2026. Do not create a separate hard-coded timer if the TRC project already has one. TRC is the code name for Tripo Rendering Challenge internal use case for D3D to keep track of projects.
+
+The hero play button should remain visible, but it is not a video player yet.
+
+Play-button visual behavior:
+
+* Give it a subtle intermittent glitch / soft blur / hacked-signal effect.
+* It should feel cinematic and technical, not loud or constantly animated.
+* Respect reduced-motion settings.
+
+Play-button click behavior:
+Open a polished overlay/modal, not a fullscreen player.
+
+Modal title:
+Full Teaser — In Production
+
+Modal countdown:
+[shared TRC countdown timer]
+
+Modal body:
+Deuterium3D is entering the Tripo AI 3D Rendering Challenge with a six-second cinematic short built around this year’s theme: “Out There.” The countdown tracks the submission deadline while the full teaser is being completed.
+
+Modal primary link:
+View the Tripo Rendering Challenge →
+
+Link this to the official challenge page supplied by Jonathan.
+https://www.tripo3d.ai/event/s3-3d-rendering-challenge#introduction
+
+Modal social heading:
+Follow Deuterium3D
+
+Show the live Deuterium3D social links here:
+X · YouTube · Instagram
+
+Do not show any social icon whose account or URL is not confirmed.
+
+BOTTOM-RIGHT WATERMARK — SHARED SITE RULE
+
+Make the existing lower-right watermark larger and more intentional.
+
+It should change with the active section:
+
+* Hero and Made sections: Deuterium3D
+* Ringo section: Terminal Games
+* Built / ProjectARC section: ProjectARC
+
+The change should be subtle and elegant during scroll transitions. It is a background signature, not a navigation element.

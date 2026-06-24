@@ -1,0 +1,102 @@
+# IMAGE 2 — DEUTERIUM3D
+
+## LOCKED
+
+**Section label**
+Deuterium3D — Expressed
+
+**Headline**
+Life beyond the screen.
+
+**Supporting line**
+Create to inspire.
+
+---
+
+Deuterium3D creates cutscenes, concept art, and cinematic worlds designed to live beyond the screen.
+
+The work begins with visual impact, then opens into something deeper: details to connect with, ideas to relate to, and meaning that stays with you after the scene ends.
+
+Every element has a reason to exist. A character, a colour, or a small piece of the world can carry story, research, and emotional weight— inviting them to see something more.
+
+---
+
+## LOCKED REEL DIRECTION
+
+**Structure**
+Six interactive film frames.
+
+**At rest**
+Subdued placeholder media.
+Bottom-left wording appears like the original image.
+
+**Hover**
+A soft cursor-following projected-light reveal exposes moving footage beneath the frame.
+The active frame receives subtle flicker, grain, gate weave, and film-border / sprocket movement.
+A large hover word overlays the frame and is also affected by the film treatment.
+
+**Click**
+Each frame opens its own preview modal.
+Cinematic work can open the TRC teaser countdown.
+All other categories open their own distinct in-development preview modals.
+
+---
+
+## LOCKED REEL WORDING SYSTEM
+
+### 1.
+
+**Scenes in Motion**
+**UNFOLD**
+
+### 2.
+
+**Before the Worlds**
+**IMAGINE**
+
+### 3.
+
+**Worlds Awaiting**
+**ADVENTURE**
+
+### 4.
+
+**The Hidden Stories**
+**MEANING**
+
+### 5.
+
+**New Creative Ground**
+**EMPOWERED**
+
+### 6.
+
+**On the Horizon**
+**GROWTH**
+
+---
+
+Deuterium3D exists to make work that meets people where they are, gives them something real to connect with, and calls them toward something greater.
+
+We want every world to leave people inspired, empowered, and carrying something meaningful with them after the scene ends.
+
+---
+
+## LOCKED SOCIALS
+
+* YouTube — @Deuterium3D
+* X — @Deuterium3D
+* Instagram — @deuterium3d.studio
+
+Facebook remains secondary until there is real content.
+TikTok, Reddit, and Epic are not primary for this section.
+
+---
+
+## UNRESOLVED
+
+* Final polish of the paragraph before the reel
+* Final polish of the paragraph after the reel
+* Exact destination links for socials
+* Real placeholder media / clips for each reel frame
+* Distinct preview-modal content for frames 2–6
