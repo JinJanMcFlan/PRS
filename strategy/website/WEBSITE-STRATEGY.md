@@ -1,10 +1,18 @@
 # Website Strategy — Deuterium3D × ProjectARC
 
-**Status:** Strategy locked (Jonathan, June 17, 2026). Build not yet started.
+**Status:** Feedback submitted — awaiting developer response and implementation feedback.
 **PRS role:** Active strategy, copy-direction, review, and feedback source. Website implementation is external.
 **Current-state note:** This file preserves the locked June 17 strategy, including placeholder tool names. Current PRS state treats HKB as terminated; public use of old HKB placeholder language needs founder review.
 **Reference assets:** `first-pass-screenshots/` preserves first-pass visual screenshots.
 **Source:** Founder's own write-up — verbatim intent below; this file is the canonical reference for any chat working on the site.
+
+## Current Status — June 24, 2026
+
+- The approved website-module package was sent to the external developer on June 24, 2026.
+- Website design is now on external-review hold.
+- Do not reopen or redesign Hero, Image 2, Image 3, or Image 4 plus the shared final contact ending unless the developer identifies a genuine implementation constraint or conflict, or Jonathan explicitly reopens the decision.
+- The detailed current package and dependencies are stored in `strategy\website\WEBSITE-MODULE-HANDOFF-2026-06-24.md`.
+- Old HKB placeholder language is not approved for public use. OCC / ProjectARC must remain outcome- and purpose-led, without unsupported technical detail or capability claims.
 
 ---
 
@@ -113,7 +121,7 @@ It's a **pitch arc turned into a page.** Same rule as any good pitch: rapport be
 
 ## Quick reference for any chat picking this up
 
-- **Build state:** strategy locked, build not started. No site exists yet.
+- **Current package state:** feedback submitted — awaiting developer response and implementation feedback. Detailed current package is in `strategy\website\WEBSITE-MODULE-HANDOFF-2026-06-24.md`.
 - **Don't propose:** separate investor page, AI in the headline, generic video embed, footer social dump, waitlists, fake scarcity, anything that upstages the work.
 - **Do hold:** the three beats (made it / empowered it / built it), the open-loop, the lockup in the pinned top bar, the scarcity rule on ARC how-info, contact-direct for ARC, socials beside their sections, vessel-first launch.
 - **Brand line:** "Deuterium3D powered by ProjectARC" — pinned top bar only, never in the headline.

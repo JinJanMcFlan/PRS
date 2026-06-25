@@ -18,6 +18,16 @@ HKB is no longer the active project direction. OCC is the active product/project
 
 The website is being built externally. PRS owns website strategy, copy direction, review, and future feedback. PRS does not implement the website unless the founder explicitly changes that boundary.
 
+### Website Module Direction and Review Hold
+
+- The approved public story arc is `Made it → Empowered it → Built it`.
+- The website is cinematic, private, intelligent, and work-first; it is not a generic agency site, technical product page, investor deck, or waitlist.
+- ProjectARC reveals purpose and outcomes, not private architecture or unsupported technical claims.
+- Terminal Games remains the owner of the Ringo game; Deuterium3D’s public Ringo role is creative direction, visual development, cinematics, and production tools.
+- ProjectARC has direct private contact only and no social accounts. Deuterium3D and Ringo social links remain inside their sections.
+- The approved modules are now in external-review hold and may be reopened only for a genuine developer constraint/conflict or Jonathan’s explicit direction.
+- Refer to the detailed current package at `strategy\website\WEBSITE-MODULE-HANDOFF-2026-06-24.md`.
+
 ### Source-folder rule
 
 `_system/` contains the minimal PRS project-source set for manual upload into ChatGPT. Working drafts, raw research, archived pitch documents, and `Human/` material are not default sources.

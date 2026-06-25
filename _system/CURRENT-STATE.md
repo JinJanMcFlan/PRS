@@ -12,20 +12,21 @@
 - $5,000 is secured for this month.
 - Another $3,000-$5,000 is needed for next month's runway.
 - Social-media accounts exist, but nothing has been published or meaningfully started.
-- Website implementation is owned externally. PRS owns strategy, copy direction, review, and future feedback.
+- Website feedback submitted — awaiting developer response and implementation feedback.
+- PRS remains responsible for website strategy, copy direction, review, and feedback only; implementation remains external.
+- Website review hold: do not reopen or redesign Hero, Image 2, Image 3, or Image 4 plus the shared final contact ending unless the developer identifies a genuine implementation constraint/conflict or Jonathan explicitly reopens the decision.
 - Historical investor-pitch documents have been archived and must not be treated as live operating state.
 - `Financial Spine [PRS]` is the active lane rebuilding OCC pricing, funding milestones, revenue cases, margin assumptions, and investor-safe language from evidence.
 - Historical pitch-era financial terms and forecasts are retired pending bottom-up re-derivation.
 - A signed good-faith Ringo working agreement exists, but lawyer formalization and legal confirmation of exact external-use language remain pending.
 - OCC's internal alpha quality bar is now sellable: it must save meaningful time and produce real outputs worth paying for. Detailed v1 scope remains authoritative in OCC and must not be forced in PRS.
-- A website review/audit lane is active and awaiting a MainOrch handoff. Website implementation remains external.
 
 ## Active PRS priorities
 
 1. Keep `_system/` small and current as the manual ChatGPT project-source set.
 2. Run `Financial Spine [PRS]` as the active evidence lane for OCC pricing, funding milestones, revenue cases, margin assumptions, and investor-safe language.
 3. Maintain founder-facing business and communications context in `business/` and `strategy/`.
-4. Keep website strategy and review/audit work active in `strategy/website/`, while respecting the external implementation boundary.
+4. Keep website strategy and review records in `strategy/website/` while the approved package is on external-review hold, respecting the external implementation boundary.
 5. Maintain PRS-facing OCC and TRC snapshots without copying their full technical systems into PRS.
 6. Preserve old pitch material in the archive for reference only.
 7. Re-verify market pricing, competitor pricing, AI model pricing, forecasts, event details, and fundraising claims before external use.
@@ -57,7 +58,10 @@ This does not make any campaign active. It preserves names so the founder can fo
 - Costed security phases and external-use security language.
 - Lawyer-confirmed external wording for the signed good-faith Ringo / Terminal Games agreement.
 - Current social handles, platform priorities, and posting owner.
-- Current website builder, review cadence, and feedback format.
+- Developer implementation feedback for the approved website package.
+- Terminal Games contact-tab content from Andrew.
+- Confirmed Ringo social accounts before follow links are wired.
+- Approved real footage, OCC visuals, and final destinations as assets become available.
 - Current networking targets and whether the founder wants warm-intro, event, local ecosystem, grant, or partner outreach first.
 - OCC v1 scope, launch criteria, and market claims.
 - TRC production progress after the 2026-06-20 TRC source snapshot.
