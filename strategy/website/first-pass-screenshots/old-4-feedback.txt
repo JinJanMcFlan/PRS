@@ -1,0 +1,83 @@
+# IMAGE 4 — PROJECTARC
+
+## LOCKED
+
+**Section label**
+Ambition Within Reach
+
+**Headline**
+ProjectARC — The Power Behind Possibility
+
+**Supporting line**
+Empower What Matters
+
+---
+
+ARC is the engine room behind Deuterium3D. It begins with OCC, a general-purpose system that supports the work seen here, and expands into a broader set of tools and technologies for creative work and beyond.
+
+---
+
+## LOCKED PRIMARY LAYOUT
+
+Keep the existing left-side headline and paragraph layout.
+
+Move the existing three right-side proof statements upward so they align with the full left-side content group, beside the headline and paragraph.
+
+Keep the current proof statements unchanged:
+
+* Compressed production departments into adaptive tooling
+* One creator producing at studio-scale output
+* Specialized pipeline built around the Deuterium3D workflow
+
+Remove the ProjectARC contact button entirely.
+
+Do not add ProjectARC social links, a waitlist, pricing, or another CTA in this section.
+
+The lower-right watermark during this section reads:
+
+**ProjectARC**
+
+---
+
+## LOCKED OCC FEATURE BLOCK
+
+Below the primary ProjectARC content, add a blue horizontal divider line that animates in with the established site visual language.
+
+Below the divider:
+
+**Left side**
+Use this OCC description:
+
+OCC is a general-purpose AI orchestrator that sits above the models and tools people already use. It keeps project context, decisions, and next actions connected in one workspace, coordinating the right resources for each task while staying within the budget and controls you set. OCC carries the operational weight of organizing, tracking, and directing complex work, so people can keep their attention on what they are building and why it matters. The creative work on this site is one visible expression of a broader system for ambitious work across disciplines.
+
+**Right side**
+Use an OCC visual or screenshot.
+
+---
+
+## REMOVE
+
+* SC 04 · ABOUT
+* The Studio, The Proof, The Engine heading
+* The separate About introduction area
+* The ProjectARC contact button
+
+---
+
+## KEEP / MOVE
+
+Keep the existing Deuterium3D / Ringo / ProjectARC company box.
+
+Move it directly beneath the OCC feature block.
+
+Do not revise the descriptions inside that box yet. Its placement is temporary and may change during the later full-site update.
+
+---
+
+## SHARED SECTION RULES
+
+* ProjectARC is the protected capability behind the work.
+* Keep the section precise, private, and outcome-focused.
+* Do not expose technical architecture, providers, model names, APIs, code, routing details, or private methods.
+* Do not imply OCC or ProjectARC is a finished public product, broadly available service, or completed platform.
+* Preserve the established dark, cinematic, high-end visual language, with a more controlled and intelligent systems feel than the earlier creative sections.

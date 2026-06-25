@@ -1,0 +1,118 @@
+# IMAGE 3 — RINGO
+
+## LOCKED
+
+**Section label**
+Worlds in Play
+
+**Headline**
+The Adventures of Ringo
+
+**Supporting line**
+Enter the world your way.
+
+---
+
+The Adventures of Ringo is a Terminal Games project, shaped in collaboration with Deuterium3D.
+
+Beyond cinematics, Deuterium3D supports the creative direction, visual development, and production tools that help turn an ambitious idea into a world people can see, feel, and step into.
+
+---
+
+## LOCKED MAIN MEDIA DIRECTION
+
+Replace the current boxed teaser placeholder with a cinematic visual field aligned with the Hero section.
+
+The media field may contain gameplay, cinematic material, story moments, world footage, or other Ringo-related visual material.
+
+Keep a centered glitchy play-button treatment that feels visually related to the Hero play button.
+
+**Play button**
+
+* Remains visible.
+* Uses the same restrained cinematic / technical glitch language as the Hero.
+* Represents the future official Ringo trailer or in-development trailer experience.
+* No countdown belongs in this section.
+* Until trailer content exists, the media remains clearly in development.
+
+---
+
+## LOCKED RINGO REEL DIRECTION
+
+**Structure**
+Three interactive Ringo frames beneath the main media field.
+
+**Interaction**
+Use the same film and glitch language as the approved Deuterium3D reel.
+
+Each frame alternates or glitches between its paired large words.
+
+Rarely, all three frames may briefly flash:
+
+**DIE**
+
+This flash must remain occasional, subtle, and unsettling—not frequent or distracting.
+
+---
+
+## LOCKED RINGO REEL WORDING SYSTEM
+
+### 1.
+
+**Gameplay**
+**RUN ↔ SURVIVE**
+
+### 2.
+
+**Story**
+**OVERCOME ↔ FEEL**
+
+### 3.
+
+**World**
+**EXPLORE ↔ DISCOVER**
+
+---
+
+## LOCKED SOCIALS
+
+Use follow icons or buttons only.
+
+No heading.
+No additional supporting text.
+
+Platforms:
+
+* X
+* YouTube
+* Instagram
+
+Use real Ringo accounts once Terminal Games provides them. Do not invent handles, account links, or destinations.
+
+---
+
+## REMOVE
+
+* Remove the current metadata / tag bubbles entirely.
+* Do not replace them with another metadata row.
+* Remove the current “Teaser Coming Soon” boxed-placeholder treatment.
+
+---
+
+## SHARED SECTION RULES
+
+* The Adventures of Ringo is a Terminal Games project.
+* Do not imply Deuterium3D owns, publishes, or develops the Ringo game.
+* Keep the existing Ringo section placement and broad layout language.
+* Align the section visually with the approved Hero and Deuterium3D sections.
+* The lower-right watermark during this section reads:
+
+**Terminal Games**
+
+---
+
+## UNRESOLVED
+
+* Final official Ringo trailer or in-development trailer content.
+* Real media for the cinematic field and three Ringo reel frames.
+* Confirmed Ringo X, YouTube, and Instagram accounts / URLs.

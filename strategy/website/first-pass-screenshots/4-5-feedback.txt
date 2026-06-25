@@ -1,0 +1,230 @@
+# IMAGES 4 + 5 — PROJECTARC + SHARED CONTACT
+
+## LOCKED PURPOSE
+
+This package combines the ProjectARC reveal and final contact experience.
+
+Image 5 is no longer a separate contact section. Its previous systems diagram and standalone contact layout are removed.
+
+The existing three-company box from Image 4, positioned beneath the OCC block, becomes the shared contact module for:
+
+1. Deuterium3D
+2. Terminal Games
+3. ProjectARC
+
+The site Contact navigation link scrolls to this shared contact module.
+
+---
+
+# IMAGE 4 — PROJECTARC
+
+## LOCKED
+
+**Section label**
+Ambition Within Reach
+
+**Headline**
+ProjectARC — The Power Behind Possibility
+
+**Supporting line**
+Empower What Matters
+
+---
+
+ARC is the engine room behind Deuterium3D. It begins with OCC, a general-purpose system that supports the work seen here, and expands into a broader set of tools and technologies for creative work and beyond.
+
+---
+
+## LOCKED PRIMARY LAYOUT
+
+Keep the left-side headline and paragraph layout.
+
+Move the existing three right-side proof statements upward so they align with the full left-side content group, beside the headline and paragraph.
+
+Keep these statements unchanged:
+
+* Compressed production departments into adaptive tooling
+* One creator producing at studio-scale output
+* Specialized pipeline built around the Deuterium3D workflow
+
+Remove the ProjectARC contact button entirely.
+
+The lower-right watermark during this section reads:
+
+**ProjectARC**
+
+---
+
+## LOCKED OCC FEATURE BLOCK
+
+Below the primary ProjectARC content, add a blue horizontal divider line that animates in with the established site visual language.
+
+Below the divider:
+
+**Left side**
+
+OCC is a general-purpose AI orchestrator that sits above the models and tools people already use. It keeps project context, decisions, and next actions connected in one workspace, coordinating the right resources for each task while staying within the budget and controls you set. OCC carries the operational weight of organizing, tracking, and directing complex work, so people can keep their attention on what they are building and why it matters. The creative work on this site is one visible expression of a broader system for ambitious work across disciplines.
+
+**Right side**
+
+Use an OCC visual or screenshot.
+
+---
+
+# SHARED COMPANY CONTACT MODULE
+
+## LOCATION
+
+Keep the existing Deuterium3D / Ringo / ARC company tab box from Image 4.
+
+Move it directly beneath the OCC feature block.
+
+Override the previous instruction to preserve its description content. The descriptions are replaced by company-specific contact experiences.
+
+The box may expand vertically as needed. Do not compress the form into an unusable layout.
+
+---
+
+## VISUAL SYSTEM
+
+Keep the existing box styling, tab structure, and established colors.
+
+Use the existing company accent colors throughout each tab:
+
+* **Deuterium3D:** existing blue accent
+* **Terminal Games:** existing Ringo gold accent
+* **ProjectARC:** existing purple / violet accent
+
+The active tab, section label, focus states, form details, button treatment, and selection markers must match the selected company’s existing color language.
+
+Do not introduce a new color system.
+
+Use full tab names:
+
+* Deuterium3D
+* Terminal Games
+* ProjectARC
+
+Ringo remains the public project title in Image 3. The contact tab represents Terminal Games as the company.
+
+---
+
+## DEUTERIUM3D TAB
+
+Keep the current Image 5 Deuterium3D contact layout, form structure, body copy, email card, supporting bullets, and button treatment.
+
+Only change the small top label to:
+
+**Dare to Dream**
+
+Keep:
+
+**Headline**
+Start a Project with Deuterium3D
+
+**Paragraph**
+Have a game, film, animation, or visual effects project in mind? Reach out to Deuterium3D to discuss your project direction, timeline, and production needs.
+
+Keep the existing confirmed Deuterium3D email card.
+
+Keep the current form fields:
+
+* Name
+* Email
+* Company / Studio
+* Project Type
+* Timeline
+* Message
+
+Keep the existing message placeholder and:
+
+**Send Project Inquiry →**
+
+---
+
+## TERMINAL GAMES TAB
+
+**Status:** Awaiting Andrew’s decision. Do not invent this company’s contact copy, public email treatment, or form intent.
+
+Use the Terminal Games / Ringo gold accent system.
+
+### Send this message to Andrew’s Terminal Games AI chat
+
+Andrew needs to decide this since it is his company being represented here.
+
+We are rebuilding the shared contact module on the Deuterium3D / ProjectARC website. It uses three company tabs in this order:
+
+1. Deuterium3D
+2. Terminal Games
+3. ProjectARC
+
+The existing box has been repurposed from an About box into a shared contact module. Your Terminal Games tab will use the existing Ringo gold accent colors already established in the box.
+
+Please return a compact, implementation-ready contact-tab package containing:
+
+* Small accent-line wording
+* Main headline
+* Short paragraph
+* Whether Terminal Games should show a public email card, and the exact email if yes
+* Any supporting bullets
+* Form fields
+* Message placeholder
+* Submit-button wording
+
+The tab should represent Terminal Games and The Adventures of Ringo professionally. It must not imply that Deuterium3D owns, publishes, or develops the Ringo game. Keep it game-facing, cinematic, and clear. Do not add pricing, waitlists, technical claims, social links, or a redesign of the shared contact box.
+
+---
+
+## PROJECTARC TAB
+
+Use the ProjectARC purple / violet accent system.
+
+**Small accent line**
+Build What Matters
+
+**Headline**
+Have a tool that could change lives?
+
+**Paragraph**
+Bring the idea, the problem, or the opportunity. ProjectARC is looking to connect with collaborators, aligned investors, and people who see a better way forward and want to build something meaningful.
+
+**Form fields**
+
+* Name
+* Email
+* Company / Organization
+* What are you looking to build?
+* Message
+
+**Message placeholder**
+Tell us about the problem, opportunity, or idea you want to explore.
+
+**Button**
+Start a Private Conversation →
+
+Do not display a public ProjectARC email address.
+
+ProjectARC submissions route privately to the existing Deuterium3D inbox and are tagged as ProjectARC.
+
+---
+
+## REMOVE
+
+* The former standalone Image 5 systems / node diagram area
+* The former standalone Contact section and duplicate contact form
+* SC 04 · ABOUT
+* The Studio, The Proof, The Engine heading
+* The separate About introduction area
+* The ProjectARC contact button
+* The “3D Animation Studio” footer descriptor
+
+---
+
+## SHARED SECTION RULES
+
+* ProjectARC remains the protected capability behind the work.
+* ProjectARC has direct private contact only. No social links, public email address, waitlist, pricing, or signup flow.
+* Do not expose technical architecture, provider names, model names, APIs, code, routing mechanics, or private methods.
+* Do not imply OCC or ProjectARC is a finished public product, broadly available service, or completed platform.
+* Preserve the established dark, cinematic, restrained, high-end visual language.
+* The company contact module is the final action point of the site, not a generic agency intake form.
